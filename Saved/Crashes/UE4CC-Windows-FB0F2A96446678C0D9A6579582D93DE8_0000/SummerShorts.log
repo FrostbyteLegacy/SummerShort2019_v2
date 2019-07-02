@@ -1,0 +1,1489 @@
+﻿Log file open, 06/28/19 10:25:56
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VSPerf140.dll' (GetLastError=126)
+LogWindows: File 'VSPerf140.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: SummerShorts
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.263901
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: Display: ICU TimeZone Detection - Raw Offset: -5:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin EditorScriptingUtilities
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapEmulator
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin DatasmithCADImporter
+LogPluginManager: Mounting plugin DatasmithFBXImporter
+LogPluginManager: Mounting plugin DatasmithImporter
+LogPluginManager: Mounting plugin DatasmithMDLImporter
+LogPluginManager: Mounting plugin StaticMeshEditorExtension
+LogStreaming: Display: Took  0.108s to configure plugins.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2h
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.20-CL-4302132
+LogInit: Engine Version: 4.20.2-4302132+++UE4+Release-4.20
+LogInit: Compatible Engine Version: 4.20.0-4212847+++UE4+Release-4.20
+LogInit: Net CL: 4212847
+LogInit: OS: Windows 10 (), CPU: Intel(R) Xeon(R) CPU E5-1630 v3 @ 3.70GHz, GPU: NVIDIA GeForce GTX 1080
+LogInit: Compiled (64-bit): Aug 21 2018 02:06:06
+LogInit: Compiled with Visual C++: 19.13.26129.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.20
+LogInit: Command Line:  
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.20/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 20
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 24
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 34
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 26
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 9
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 12
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 1
+LogStreaming: Display: Took  0.000s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2019.06.28-14.25.56:426][  0]LogInit: Selected Device Profile: [Windows]
+[2019.06.28-14.25.56:427][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.06.28-14.25.56:439][  0]LogHAL: Display: Platform has ~ 32 GB [34258219008 / 34359738368 / 32], which maps to Largest [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2019.06.28-14.25.56:439][  0]LogInit: Setting Device Profile CVar: [[r.Vulkan.UseRealUBs:1]]
+[2019.06.28-14.25.56:439][  0]LogInit: Going up to parent DeviceProfile []
+[2019.06.28-14.25.56:439][  0]LogInit: Computer: B112-01
+[2019.06.28-14.25.56:439][  0]LogInit: User: 100653103
+[2019.06.28-14.25.56:439][  0]LogInit: CPU Page size=4096, Cores=4
+[2019.06.28-14.25.56:439][  0]LogInit: High frequency timer resolution =3.604933 MHz
+[2019.06.28-14.25.56:439][  0]LogMemory: Memory total: Physical=31.9GB (32GB approx)
+[2019.06.28-14.25.56:439][  0]LogMemory: Platform Memory Stats for Windows
+[2019.06.28-14.25.56:439][  0]LogMemory: Process Physical Memory: 99.61 MB used, 99.61 MB peak
+[2019.06.28-14.25.56:439][  0]LogMemory: Process Virtual Memory: 91.03 MB used, 91.03 MB peak
+[2019.06.28-14.25.56:439][  0]LogMemory: Physical Memory: 9928.95 MB used,  22742.23 MB free, 32671.18 MB total
+[2019.06.28-14.25.56:439][  0]LogMemory: Virtual Memory: 510.15 MB used,  22742.23 MB free, 134217728.00 MB total
+[2019.06.28-14.25.57:060][  0]LogInit: Using OS detected language (en-US).
+[2019.06.28-14.25.57:060][  0]LogInit: Using OS detected locale (en-US).
+[2019.06.28-14.25.57:061][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2019.06.28-14.25.57:397][  0]LogStreaming: Display: Took  0.337s to InitEngineTextLocalization.
+[2019.06.28-14.25.57:397][  0]LogInit: Setting process to per monitor DPI aware
+[2019.06.28-14.25.57:471][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2019.06.28-14.25.57:471][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2019.06.28-14.25.57:678][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.06.28-14.25.57:678][  0]LogD3D11RHI: D3D11 adapters:
+[2019.06.28-14.25.57:738][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1080' (Feature Level 11_0)
+[2019.06.28-14.25.57:738][  0]LogD3D11RHI:       8084/0/16335 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2019.06.28-14.25.57:740][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.06.28-14.25.57:740][  0]LogD3D11RHI:       0/0/16335 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.06.28-14.25.57:740][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.06.28-14.25.57:743][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.06.28-14.25.57:743][  0]LogD3D11RHI:     GPU DeviceId: 0x1b80 (for the marketing name, search the web for "GPU Device Id")
+[2019.06.28-14.25.57:743][  0]LogWindows: EnumDisplayDevices:
+[2019.06.28-14.25.57:744][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1080' (P:1 D:1)
+[2019.06.28-14.25.57:744][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1080' (P:0 D:1)
+[2019.06.28-14.25.57:744][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1080' (P:0 D:0)
+[2019.06.28-14.25.57:744][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1080' (P:0 D:0)
+[2019.06.28-14.25.57:744][  0]LogWindows:    4. 'Freedom Scientific Accessibility Display Driver' (P:0 D:0)
+[2019.06.28-14.25.57:744][  0]LogWindows:    5. 'LANDesk Remote Control Mirror Driver' (P:0 D:0)
+[2019.06.28-14.25.57:744][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:4 
+[2019.06.28-14.25.57:744][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1080
+[2019.06.28-14.25.57:744][  0]LogD3D11RHI:   Driver Version: 417.71 (internal:25.21.14.1771, unified:417.71)
+[2019.06.28-14.25.57:744][  0]LogD3D11RHI:      Driver Date: 1-11-2019
+[2019.06.28-14.25.57:744][  0]LogRHI: Texture pool is 5659 MB (70% of 8084 MB)
+[2019.06.28-14.25.57:783][  0]LogD3D11RHI: Async texture creation enabled
+[2019.06.28-14.25.57:799][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2019.06.28-14.25.57:843][  0]LogShaderCompilers: Guid format shader working directory is 25 characters bigger than the processId version (E:/test/ue4/SummerShorts/Intermediate/Shaders/WorkingDirectory/12328/).
+[2019.06.28-14.25.57:843][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/100653103/AppData/Local/Temp/UnrealShaderWorkingDir/AA88155B44B5593299F52DA0AD006716/'.
+[2019.06.28-14.25.58:752][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2019.06.28-14.25.58:764][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2019.06.28-14.25.58:775][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2019.06.28-14.25.58:786][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2019.06.28-14.25.58:798][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2019.06.28-14.25.58:810][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2019.06.28-14.25.58:822][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2019.06.28-14.25.58:833][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2019.06.28-14.25.58:838][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2019.06.28-14.25.58:904][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.06.28-14.25.58:904][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.06.28-14.25.58:904][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.06.28-14.25.58:904][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.06.28-14.25.58:904][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.06.28-14.25.58:904][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.06.28-14.25.58:904][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.06.28-14.25.58:904][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.06.28-14.25.58:904][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.06.28-14.25.58:904][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.06.28-14.25.58:904][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.06.28-14.25.58:904][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.06.28-14.25.58:904][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.06.28-14.25.58:904][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.06.28-14.25.58:904][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.06.28-14.25.58:904][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.06.28-14.25.58:904][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.06.28-14.25.58:904][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.06.28-14.25.58:905][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2019.06.28-14.25.58:961][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2019.06.28-14.25.58:961][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2019.06.28-14.25.58:982][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2019.06.28-14.25.58:982][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2019.06.28-14.25.58:993][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2019.06.28-14.25.59:004][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2019.06.28-14.25.59:015][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2019.06.28-14.25.59:026][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2019.06.28-14.25.59:034][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2019.06.28-14.25.59:034][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.06.28-14.25.59:082][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2019.06.28-14.25.59:082][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2019.06.28-14.25.59:082][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2019.06.28-14.25.59:771][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.06.28-14.25.59:826][  0]LogDerivedDataCache: Loaded boot cache 0.06s 73MB C:/Users/100653103/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2019.06.28-14.25.59:827][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/100653103/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc
+[2019.06.28-14.25.59:827][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file E:/test/ue4/SummerShorts/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.06.28-14.25.59:827][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.06.28-14.25.59:827][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file E:/test/ue4/SummerShorts/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.06.28-14.25.59:827][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.06.28-14.25.59:842][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.06.28-14.25.59:853][  0]LogDerivedDataCache: Using Local data cache path C:/Users/100653103/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.06.28-14.25.59:853][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2019.06.28-14.25.59:853][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2019.06.28-14.25.59:871][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.06.28-14.25.59:872][  0]LogSlate: Using FreeType 2.6.0
+[2019.06.28-14.25.59:872][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.06.28-14.25.59:946][  0]LogAssetRegistry: FAssetRegistry took 0.0253 seconds to start up
+[2019.06.28-14.26.00:230][  0]LogInit: Selected Device Profile: [Windows]
+[2019.06.28-14.26.00:341][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2019.06.28-14.26.00:343][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2019.06.28-14.26.00:343][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2019.06.28-14.26.00:343][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.06.28-14.26.00:343][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2019.06.28-14.26.00:360][  0]LogNetVersion: SummerShorts 1.0.0, NetCL: 4212847, EngineNetVer: 5, GameNetVer: 0 (Checksum: 178876072)
+[2019.06.28-14.26.00:876][  0]LogPackageLocalizationCache: Processed 13 localized package path(s) for 2 prioritized culture(s) in 0.125760 seconds
+[2019.06.28-14.26.00:882][  0]LogUObjectArray: 38425 objects as part of root set at end of initial load.
+[2019.06.28-14.26.00:882][  0]LogUObjectAllocator: 6690872 out of 0 bytes used by permanent object pool.
+[2019.06.28-14.26.00:882][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.06.28-14.26.01:662][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.06.28-14.26.01:675][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.06.28-14.26.01:802][  0]SourceControl: Source control is disabled
+[2019.06.28-14.26.01:802][  0]SourceControl: Source control is disabled
+[2019.06.28-14.26.01:803][  0]SourceControl: Source control is disabled
+[2019.06.28-14.26.01:804][  0]SourceControl: Source control is disabled
+[2019.06.28-14.26.01:955][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.06.28-14.26.01:987][  0]LogOcInput: OculusInput pre-init called
+[2019.06.28-14.26.03:781][  0]LogEngine: Initializing Engine...
+[2019.06.28-14.26.03:781][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.06.28-14.26.03:782][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2019.06.28-14.26.03:782][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.06.28-14.26.03:783][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2019.06.28-14.26.03:783][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.06.28-14.26.03:961][  0]LogInit: Initializing FReadOnlyCVARCache
+[2019.06.28-14.26.03:974][  0]LogAIModule: Creating AISystem for world Untitled
+[2019.06.28-14.26.03:985][  0]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.06.28-14.26.04:000][  0]LogInit: FAudioDevice initialized.
+[2019.06.28-14.26.04:000][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2019.06.28-14.26.04:082][  0]LogDerivedDataCache: Saved boot cache 0.08s 72MB C:/Users/100653103/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2019.06.28-14.26.04:087][  0]LogInit: Texture streaming: Enabled
+[2019.06.28-14.26.04:100][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2019.06.28-14.26.04:110][  0]LogInit: Transaction tracking system initialized
+[2019.06.28-14.26.04:126][  0]BlueprintLog: New page: Editor Load
+[2019.06.28-14.26.04:188][  0]LocalizationService: Localization service is disabled
+[2019.06.28-14.26.04:429][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.06.28-14.26.04:429][  0]LogCook: Display: Mobile HDR setting 1
+[2019.06.28-14.26.04:429][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2019.06.28-14.26.04:429][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2019.06.28-14.26.04:429][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.06.28-14.26.04:429][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2019.06.28-14.26.04:429][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.06.28-14.26.04:526][  0]LogFileCache: Scanning file cache for directory 'E:/test/ue4/SummerShorts/Content/' took 0.01s
+[2019.06.28-14.26.05:647][  0]SourceControl: Source control is disabled
+[2019.06.28-14.26.05:648][  0]Cmd: MAP LOAD FILE="E:/test/ue4/SummerShorts/Content/RollingBP/Maps/RollingBPExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.06.28-14.26.05:648][  0]LightingResults: New page: Lighting Build
+[2019.06.28-14.26.05:650][  0]MapCheck: New page: Map Check
+[2019.06.28-14.26.05:650][  0]LightingResults: New page: Lighting Build
+[2019.06.28-14.26.05:912][  0]LogAIModule: Creating AISystem for world RollingBPExampleMap
+[2019.06.28-14.26.05:922][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.06.28-14.26.05:943][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.06.28-14.26.06:003][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 59.93ms to complete.
+[2019.06.28-14.26.06:003][  0]LogFileHelpers: Loading map 'RollingBPExampleMap' took 0.356
+[2019.06.28-14.26.06:064][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.06.28-14.26.06:134][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.28-14.26.06:141][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.28-14.26.06:148][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.28-14.26.06:154][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.28-14.26.06:159][  0]LogCollectionManager: Loaded 0 collections in 0.001148 seconds
+[2019.06.28-14.26.06:199][  0]LogFileCache: Scanning file cache for directory 'E:/test/ue4/SummerShorts/Saved/Collections/' took 0.01s
+[2019.06.28-14.26.06:199][  0]LogFileCache: Scanning file cache for directory 'E:/test/ue4/SummerShorts/Content/Developers/100653103/Collections/' took 0.01s
+[2019.06.28-14.26.06:199][  0]LogFileCache: Scanning file cache for directory 'E:/test/ue4/SummerShorts/Content/Collections/' took 0.01s
+[2019.06.28-14.26.06:199][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2019.06.28-14.26.06:207][  0]LogContentBrowser: Native class hierarchy populated in 0.0082 seconds. Added 2621 classes and 629 folders.
+[2019.06.28-14.26.06:212][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2019.06.28-14.26.06:251][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2019.06.28-14.26.06:255][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2019.06.28-14.26.06:269][  0]LogSlate: Took 0.000231 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.06.28-14.26.06:271][  0]LogSlate: Took 0.000190 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.06.28-14.26.06:276][  0]LogSlate: Took 0.000212 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.06.28-14.26.06:343][  0]LogRenderer: Reallocating scene render targets to support 1208x576 Format 10 NumSamples 1 (Frame:1).
+[2019.06.28-14.26.06:457][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2019.06.28-14.26.06:458][  0]LogLoad: (Engine Initialization) Total time: 11.44 seconds
+[2019.06.28-14.26.06:458][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.06.28-14.26.06:488][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2019.06.28-14.26.06:502][  0]LogSlate: Took 0.000266 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.06.28-14.26.06:528][  1]LogAssetRegistry: Asset discovery search completed in 6.6037 seconds
+[2019.06.28-14.26.06:530][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2019.06.28-14.26.06:530][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000044 seconds (updated 0 objects)
+[2019.06.28-14.26.13:640][846]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.28-14.26.13:896][876]LogSlate: Took 0.000221 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.06.28-14.26.13:935][876]LogAIModule: Creating AISystem for world SummerShorts
+[2019.06.28-14.26.13:941][876]LogAssetEditorManager: Opening Asset editor for World /Game/SummerShorts.SummerShorts
+[2019.06.28-14.26.13:965][876]Cmd: MAP LOAD FILE="E:/test/ue4/SummerShorts/Content/SummerShorts.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.06.28-14.26.13:965][876]LightingResults: New page: Lighting Build
+[2019.06.28-14.26.13:965][876]LoadErrors: New page: Loading map: SummerShorts.umap
+[2019.06.28-14.26.13:966][876]MapCheck: New page: Map Check
+[2019.06.28-14.26.13:966][876]LightingResults: New page: Lighting Build
+[2019.06.28-14.26.14:000][876]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.06.28-14.26.14:038][876]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.06.28-14.26.14:099][876]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 60.582ms to complete.
+[2019.06.28-14.26.14:099][876]LogFileHelpers: Loading map 'SummerShorts' took 0.135
+[2019.06.28-14.26.17:716][302]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.28-14.27.19:812][527]LogTexture: Display: Building textures: T_Rock02_D (DXT1, 1024X1024)
+[2019.06.28-14.27.19:812][527]LogTexture: Display: Building textures: T_Rock02_N (BC5, 1024X1024)
+[2019.06.28-14.27.19:813][527]LogTexture: Display: Building textures: T_CaveFloor_01_M (AutoDXT, 2048X2048)
+[2019.06.28-14.27.19:813][527]LogTexture: Display: Building textures: T_LavaEdge_01_M (AutoDXT, 1024X1024)
+[2019.06.28-14.27.19:813][527]LogTexture: Display: Building textures: LavaFloor_02_N (BC5, 2048X2048)
+[2019.06.28-14.27.19:813][527]LogTexture: Display: Building textures: LavaFloor_02_D (AutoDXT, 2048X2048)
+[2019.06.28-14.27.21:551][527]LogMaterial: Display: Missing cached shader map for material M_CaveFloor_01, compiling. 
+[2019.06.28-14.27.21:728][527]LogShaderCompilers: Display: Shaders left to compile 31
+[2019.06.28-14.27.21:729][527]LogShaderCompilers: Display: Shaders left to compile 21
+[2019.06.28-14.27.21:729][527]LogShaderCompilers: Display: Shaders left to compile 11
+[2019.06.28-14.27.21:729][527]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.06.28-14.27.21:729][527]LogStaticMesh: Building static mesh SM_CaveFloor_01...
+[2019.06.28-14.27.21:940][527]LogStaticMesh: Built static mesh [0.21s] /Game/Elemental/Environment/Lava_Assets/Meshes/SM_CaveFloor_01.SM_CaveFloor_01
+[2019.06.28-14.27.23:415][527]LogStaticMesh: Building static mesh SM_CliffIce_01...
+[2019.06.28-14.27.24:449][527]LogStaticMesh: Built static mesh [1.03s] /Game/Elemental/Environment/Ice_Assets/Meshes/SM_CliffIce_01.SM_CliffIce_01
+[2019.06.28-14.27.25:870][527]LogStaticMesh: Building static mesh SM_CliffIce_02...
+[2019.06.28-14.27.27:066][527]LogStaticMesh: Built static mesh [1.20s] /Game/Elemental/Environment/Ice_Assets/Meshes/SM_CliffIce_02.SM_CliffIce_02
+[2019.06.28-14.27.28:070][527]LogTexture: Display: Building textures: T_TilingAsh_D (AutoDXT, 2048X2048)
+[2019.06.28-14.27.28:071][527]LogTexture: Display: Building textures: T_ThroneRoom_StoneFloor01_N (BC5, 2048X2048)
+[2019.06.28-14.27.28:071][527]LogTexture: Display: Building textures: T_TilingAsh_N (BC5, 2048X2048)
+[2019.06.28-14.27.28:071][527]LogTexture: Display: Building textures: T_CaveRock01_S (AutoDXT, 2048X2048)
+[2019.06.28-14.27.38:160][527]LogTexture: Display: Building textures: T_TilingAsh_S (AutoDXT, 2048X2048)
+[2019.06.28-14.27.38:160][527]LogTexture: Display: Building textures: T_ThroneRoom_StoneFloor01_S (BGRA8, 2048X2048)
+[2019.06.28-14.27.38:160][527]LogTexture: Display: Building textures: T_ThroneRoom_StoneFloor01_D (AutoDXT, 2048X2048)
+[2019.06.28-14.27.38:160][527]LogTexture: Display: Building textures: T_CaveRock01_D (AutoDXT, 2048X2048)
+[2019.06.28-14.27.38:160][527]LogTexture: Display: Building textures: T_CaveRock01_N (BC5, 2048X2048)
+[2019.06.28-14.27.38:160][527]LogTexture: Display: Building textures: T_GDC2012_ThroneRoom_RockDetail_N (BC5, 2048X2048)
+[2019.06.28-14.27.38:160][527]LogTexture: Display: Building textures: T_Ice_Noise (AutoDXT, 1024X1024)
+[2019.06.28-14.27.38:160][527]LogTexture: Display: Building textures: T_CaveRock02_S (AutoDXT, 2048X2048)
+[2019.06.28-14.27.38:160][527]LogTexture: Display: Building textures: T_CaveRock02_N (BC5, 2048X2048)
+[2019.06.28-14.27.38:160][527]LogTexture: Display: Building textures: T_CaveRock02_D (AutoDXT, 2048X2048)
+[2019.06.28-14.27.38:160][527]LogTexture: Display: Building textures: T_CaveRock_paintable_Light (AutoDXT, 2048X2048)
+[2019.06.28-14.27.38:160][527]LogTexture: Display: Building textures: T_CaveRock_Detail_S (AutoDXT, 2048X2048)
+[2019.06.28-14.27.38:160][527]LogTexture: Display: Building textures: T_CaveRock_Detail_N (BC5, 2048X2048)
+[2019.06.28-14.27.38:160][527]LogTexture: Display: Building textures: T_CaveRock_Detail_D (AutoDXT, 2048X2048)
+[2019.06.28-14.27.44:714][527]LogTexture: Display: Building textures: T_IceTiling01_D (AutoDXT, 2048X2048)
+[2019.06.28-14.27.44:714][527]LogTexture: Display: Building textures: T_Glacier_Cap_N (BC5, 2048X2048)
+[2019.06.28-14.27.44:715][527]LogMaterial: Display: Missing cached shader map for material M_Jagged_Rock, compiling. 
+[2019.06.28-14.27.44:764][527]LogShaderCompilers: Display: Shaders left to compile 88
+[2019.06.28-14.27.44:764][527]LogShaderCompilers: Display: Shaders left to compile 78
+[2019.06.28-14.27.44:764][527]LogShaderCompilers: Display: Shaders left to compile 68
+[2019.06.28-14.27.44:764][527]LogShaderCompilers: Display: Shaders left to compile 58
+[2019.06.28-14.27.44:764][527]LogMaterial: Display: Missing cached shader map for material M_Jagged_Rock, compiling. 
+[2019.06.28-14.27.44:932][527]LogStaticMesh: Building static mesh SM_Jagged_Rock02...
+[2019.06.28-14.27.45:058][527]LogStaticMesh: Built static mesh [0.13s] /Game/Elemental/Environment/ThroneRoom_Surfaces/Mesh/SM_Jagged_Rock02.SM_Jagged_Rock02
+[2019.06.28-14.27.45:159][527]LogStaticMesh: Building static mesh SM_Jagged_Rock02_HIGHPOLY...
+[2019.06.28-14.27.45:290][527]LogStaticMesh: Built static mesh [0.13s] /Game/Elemental/Environment/ThroneRoom_Surfaces/Mesh/SM_Jagged_Rock02_HIGHPOLY.SM_Jagged_Rock02_HIGHPOLY
+[2019.06.28-14.27.45:325][527]LogStaticMesh: Building static mesh SM_Jagged_Rock02_HIGHPOLY_02...
+[2019.06.28-14.27.45:366][527]LogStaticMesh: Built static mesh [0.04s] /Game/Elemental/Environment/ThroneRoom_Surfaces/Mesh/SM_Jagged_Rock02_HIGHPOLY_02.SM_Jagged_Rock02_HIGHPOLY_02
+[2019.06.28-14.27.45:378][527]LogStaticMesh: Building static mesh SM_Jagged_Rock03...
+[2019.06.28-14.27.45:381][527]LogStaticMesh: Built static mesh [0.00s] /Game/Elemental/Environment/ThroneRoom_Surfaces/Mesh/SM_Jagged_Rock03.SM_Jagged_Rock03
+[2019.06.28-14.27.45:393][527]LogStaticMesh: Building static mesh SM_Jagged_Rock04...
+[2019.06.28-14.27.45:397][527]LogStaticMesh: Built static mesh [0.00s] /Game/Elemental/Environment/ThroneRoom_Surfaces/Mesh/SM_Jagged_Rock04.SM_Jagged_Rock04
+[2019.06.28-14.27.47:944][527]LogTexture: Display: Building textures: T_Rock_D (AutoDXT, 2048X2048)
+[2019.06.28-14.27.47:944][527]LogTexture: Display: Building textures: T_Rock_N (BC5, 2048X2048)
+[2019.06.28-14.27.47:964][527]LogStaticMesh: Building static mesh SM_Rock_01...
+[2019.06.28-14.27.47:977][527]LogStaticMesh: Built static mesh [0.01s] /Game/Elemental/Environment/Throne_Interior/Mesh/SM_Rock_01.SM_Rock_01
+[2019.06.28-14.27.48:534][527]LogShaderCompilers: Display: Shaders left to compile 136
+[2019.06.28-14.27.48:534][527]LogShaderCompilers: Display: Shaders left to compile 126
+[2019.06.28-14.27.48:534][527]LogTexture: Display: Building textures: T_RockPile_01_N (BC5, 2048X2048)
+[2019.06.28-14.27.48:534][527]LogTexture: Display: Building textures: T_RockPile_01_D (AutoDXT, 2048X2048)
+[2019.06.28-14.27.49:973][527]LogShaderCompilers: Display: Shaders left to compile 116
+[2019.06.28-14.27.49:977][527]LogMaterial: Display: Missing cached shader map for material M_RockPile_MeshEmit_01, compiling. 
+[2019.06.28-14.27.50:043][527]LogStaticMesh: Building static mesh SM_Rock_01...
+[2019.06.28-14.27.50:046][527]LogStaticMesh: Built static mesh [0.00s] /Game/Elemental/Effects/FX_Snow_Cracks/Crack_02/Meshes/SM_Rock_01.SM_Rock_01
+[2019.06.28-14.27.50:060][527]LogStaticMesh: Building static mesh SM_Rock_02...
+[2019.06.28-14.27.50:063][527]LogStaticMesh: Built static mesh [0.00s] /Game/Elemental/Effects/FX_Snow_Cracks/Crack_02/Meshes/SM_Rock_02.SM_Rock_02
+[2019.06.28-14.27.50:088][527]LogStaticMesh: Building static mesh SM_Rock_03...
+[2019.06.28-14.27.50:091][527]LogStaticMesh: Built static mesh [0.00s] /Game/Elemental/Effects/FX_Snow_Cracks/Crack_02/Meshes/SM_Rock_03.SM_Rock_03
+[2019.06.28-14.27.52:080][527]LogShaderCompilers: Display: Shaders left to compile 194
+[2019.06.28-14.27.52:080][527]LogTexture: Display: Building textures: T_RockMesa_06_N (BC5, 2048X2048)
+[2019.06.28-14.27.52:080][527]LogTexture: Display: Building textures: T_PlanetDirt_01_N (BC5, 2048X2048)
+[2019.06.28-14.27.52:080][527]LogTexture: Display: Building textures: T_RockMesa_06_D (AutoDXT, 2048X2048)
+[2019.06.28-14.27.52:085][527]LogMaterial: Display: Missing cached shader map for material M_RockMesa_01, compiling. 
+[2019.06.28-14.27.52:258][527]LogStaticMesh: Building static mesh SM_RockMesa_01...
+[2019.06.28-14.27.52:417][527]LogStaticMesh: Built static mesh [0.16s] /Game/Elemental/Environment/Lava_Assets/Meshes/SM_RockMesa_01.SM_RockMesa_01
+[2019.06.28-14.27.57:150][527]LogShaderCompilers: Display: Shaders left to compile 206
+[2019.06.28-14.27.57:150][527]LogTexture: Display: Building textures: T_CaveRock_Shear01_D (AutoDXT, 2048X2048)
+[2019.06.28-14.27.57:150][527]LogTexture: Display: Building textures: T_CaveRock_Shear01_N (BC5, 2048X2048)
+[2019.06.28-14.27.57:150][527]LogTexture: Display: Building textures: T_CaveRock_Shear01_S (AutoDXT, 2048X2048)
+[2019.06.28-14.27.57:150][527]LogShaderCompilers: Display: Shaders left to compile 196
+[2019.06.28-14.27.57:150][527]LogShaderCompilers: Display: Shaders left to compile 186
+[2019.06.28-14.27.57:150][527]LogShaderCompilers: Display: Shaders left to compile 176
+[2019.06.28-14.27.57:155][527]LogStaticMesh: Building static mesh SM_Shear_Rock01...
+[2019.06.28-14.27.57:160][527]LogStaticMesh: Built static mesh [0.00s] /Game/Elemental/Environment/ThroneRoom_Surfaces/Mesh/SM_Shear_Rock01.SM_Shear_Rock01
+[2019.06.28-14.28.06:859][527]LogTexture: Display: Building textures: T_Throne_Exterior_Ledg_3 (AutoDXT, 256X256)
+[2019.06.28-14.28.06:859][527]LogTexture: Display: Building textures: T_StoneWall_Rough_D (AutoDXT, 2048X2048)
+[2019.06.28-14.28.06:859][527]LogTexture: Display: Building textures: T_Throne_Exterior_Ledg_2 (BC5, 2048X2048)
+[2019.06.28-14.28.06:859][527]LogTexture: Display: Building textures: T_Throne_Exterior_Ledg_4 (AutoDXT, 2048X2048)
+[2019.06.28-14.28.06:859][527]LogTexture: Display: Building textures: T_Throne_Exterior_LedgeT (AutoDXT, 2048X2048)
+[2019.06.28-14.28.06:859][527]LogTexture: Display: Building textures: T_PillarCracks_H (G8, 2048X2048)
+[2019.06.28-14.28.06:859][527]LogTexture: Display: Building textures: T_PillarCracks_N (BC5, 2048X2048)
+[2019.06.28-14.28.06:859][527]LogTexture: Display: Building textures: T_PillarCracks_D (AutoDXT, 2048X2048)
+[2019.06.28-14.28.06:859][527]LogShaderCompilers: Display: Shaders left to compile 166
+[2019.06.28-14.28.06:859][527]LogTexture: Display: Building textures: T_Pillar_S (AutoDXT, 2048X2048)
+[2019.06.28-14.28.06:859][527]LogTexture: Display: Building textures: T_Pillar_N (BC5, 2048X2048)
+[2019.06.28-14.28.06:859][527]LogTexture: Display: Building textures: T_Pillar_M (AutoDXT, 2048X2048)
+[2019.06.28-14.28.06:859][527]LogTexture: Display: Building textures: T_ThroneRoom_PillarCracks_Texture (BC5, 1024X1024)
+[2019.06.28-14.28.06:859][527]LogTexture: Display: Building textures: T_ThroneRoom_PillarCracks_E (AutoDXT, 1024X1024)
+[2019.06.28-14.28.06:859][527]LogTexture: Display: Building textures: T_Pillar_D (AutoDXT, 2048X2048)
+[2019.06.28-14.28.06:859][527]LogTexture: Display: Building textures: T_Pillar_RuneLine_01 (AutoDXT, 512X128)
+[2019.06.28-14.28.06:859][527]LogTexture: Display: Building textures: T_Pillar_Heat_01 (AutoDXT, 1024X1024)
+[2019.06.28-14.28.06:859][527]LogTexture: Display: Building textures: T_TilingNoise06_N (BC5, 2048X2048)
+[2019.06.28-14.28.06:859][527]LogTexture: Display: Building textures: T_StoneWall_Top_S (BGRA8, 2048X2048)
+[2019.06.28-14.28.06:859][527]LogTexture: Display: Building textures: T_CraggyWall_Broken_S (AutoDXT, 2048X2048)
+[2019.06.28-14.28.06:859][527]LogShaderCompilers: Display: Shaders left to compile 156
+[2019.06.28-14.28.06:859][527]LogShaderCompilers: Display: Shaders left to compile 146
+[2019.06.28-14.28.06:859][527]LogTexture: Display: Building textures: T_CraggyWall_Broken_N (BC5, 2048X2048)
+[2019.06.28-14.28.06:859][527]LogTexture: Display: Building textures: T_CraggyWall_Broken_H (AutoDXT, 2048X2048)
+[2019.06.28-14.28.11:317][527]LogTexture: Display: Building textures: T_CraggyWall_Broken_D (AutoDXT, 2048X2048)
+[2019.06.28-14.28.11:317][527]LogTexture: Display: Building textures: T_CraggyWall_S (AutoDXT, 2048X2048)
+[2019.06.28-14.28.11:317][527]LogTexture: Display: Building textures: T_CraggyWall_N (BC5, 2048X2048)
+[2019.06.28-14.28.11:317][527]LogTexture: Display: Building textures: T_CraggyWall_H (AutoDXT, 2048X2048)
+[2019.06.28-14.28.11:317][527]LogTexture: Display: Building textures: T_CraggyWall_D (AutoDXT, 2048X2048)
+[2019.06.28-14.28.11:317][527]LogTexture: Display: Building textures: T_CraggyWall_Stucco_N (BC5, 2048X2048)
+[2019.06.28-14.28.11:317][527]LogTexture: Display: Building textures: T_CraggyWall_Stucco_D (AutoDXT, 2048X2048)
+[2019.06.28-14.28.11:317][527]LogTexture: Display: Building textures: T_StoneWall_Bottom_N (BC5, 2048X2048)
+[2019.06.28-14.28.11:317][527]LogTexture: Display: Building textures: T_StoneWall_Bottom_D (AutoDXT, 2048X2048)
+[2019.06.28-14.28.11:317][527]LogMaterial: Display: Missing cached shader map for material M_Archtecture_MASTEER, compiling. 
+[2019.06.28-14.28.11:380][527]LogMaterial: Display: Missing cached shader map for material M_Archtecture_MASTEER, compiling. 
+[2019.06.28-14.28.11:472][527]LogStaticMesh: Building static mesh SM_Throne_Exterior_CoverB_2...
+[2019.06.28-14.28.11:532][527]LogTexture: Display: Building textures: T_TilingNoise06 (BGRA8, 2048X2048)
+[2019.06.28-14.28.11:532][527]LogStaticMesh: Built static mesh [0.06s] /Game/Elemental/Environment/Throne_Exterior/Mesh/SM_Throne_Exterior_CoverB_2.SM_Throne_Exterior_CoverB_2
+[2019.06.28-14.28.11:816][527]LogTexture: Display: Building textures: T_StoneWall_GRID_N (BC5, 2048X2048)
+[2019.06.28-14.28.13:000][527]LogTexture: Display: Building textures: T_StoneWall_Top_N (BC5, 2048X2048)
+[2019.06.28-14.28.13:000][527]LogShaderCompilers: Display: Shaders left to compile 274
+[2019.06.28-14.28.13:000][527]LogTexture: Display: Building textures: T_StoneWall_Top_D (AutoDXT, 2048X2048)
+[2019.06.28-14.28.13:000][527]LogShaderCompilers: Display: Shaders left to compile 264
+[2019.06.28-14.28.13:004][527]LogMaterial: Display: Missing cached shader map for material M_ThroneRoom_Master, compiling. 
+[2019.06.28-14.28.18:217][527]LogTexture: Display: Building textures: T_StoneWall_Rough_N (BC5, 2048X2048)
+[2019.06.28-14.28.18:217][527]LogShaderCompilers: Display: Shaders left to compile 323
+[2019.06.28-14.28.18:224][527]LogMaterial: Display: Missing cached shader map for material M_ThroneRoom_Master, compiling. 
+[2019.06.28-14.28.18:359][527]LogStaticMesh: Building static mesh SM_Throne_Exterior_CoverB_3...
+[2019.06.28-14.28.18:370][527]LogStaticMesh: Built static mesh [0.01s] /Game/Elemental/Environment/Throne_Exterior/Mesh/SM_Throne_Exterior_CoverB_3.SM_Throne_Exterior_CoverB_3
+[2019.06.28-14.28.18:384][527]LogStaticMesh: Building static mesh SM_Throne_Exterior_CoverBlo...
+[2019.06.28-14.28.18:396][527]LogStaticMesh: Built static mesh [0.01s] /Game/Elemental/Environment/Throne_Exterior/Mesh/SM_Throne_Exterior_CoverBlo.SM_Throne_Exterior_CoverBlo
+[2019.06.28-14.28.18:407][527]LogStaticMesh: Building static mesh SM_Throne_Exterior_DoorArch...
+[2019.06.28-14.28.18:408][527]LogStaticMesh: Built static mesh [0.00s] /Game/Elemental/Environment/Throne_Exterior/Mesh/SM_Throne_Exterior_DoorArch.SM_Throne_Exterior_DoorArch
+[2019.06.28-14.28.18:871][527]LogTexture: Display: Building textures: M_DoorArchway_M (AutoDXT, 2048X2048)
+[2019.06.28-14.28.18:871][527]LogTexture: Display: Building textures: T_Throne_Exterior_DoorArch_N (BC5, 2048X2048)
+[2019.06.28-14.28.19:847][527]LogTexture: Display: Building textures: T_Throne_Exterior_DoorArch_S (AutoDXT, 2048X2048)
+[2019.06.28-14.28.19:847][527]LogTexture: Display: Building textures: T_Throne_Exterior_DoorArch_D (AutoDXT, 2048X2048)
+[2019.06.28-14.28.19:847][527]LogShaderCompilers: Display: Shaders left to compile 382
+[2019.06.28-14.28.21:320][527]LogShaderCompilers: Display: Shaders left to compile 372
+[2019.06.28-14.28.21:325][527]LogMaterial: Display: Missing cached shader map for material M_Archtecture_MASTEER, compiling. 
+[2019.06.28-14.28.21:385][527]LogStaticMesh: Building static mesh SM_Throne_Exterior_Wall_01...
+[2019.06.28-14.28.21:389][527]LogStaticMesh: Built static mesh [0.00s] /Game/Elemental/Environment/Throne_Exterior/Mesh/SM_Throne_Exterior_Wall_01.SM_Throne_Exterior_Wall_01
+[2019.06.28-14.28.21:411][527]LogStaticMesh: Building static mesh SM_Throne_Exterior_Wall_02...
+[2019.06.28-14.28.21:417][527]LogStaticMesh: Built static mesh [0.01s] /Game/Elemental/Environment/Throne_Exterior/Mesh/SM_Throne_Exterior_Wall_02.SM_Throne_Exterior_Wall_02
+[2019.06.28-14.28.21:432][527]LogStaticMesh: Building static mesh SM_Throne_Exterior_Wall_03...
+[2019.06.28-14.28.21:438][527]LogStaticMesh: Built static mesh [0.01s] /Game/Elemental/Environment/Throne_Exterior/Mesh/SM_Throne_Exterior_Wall_03.SM_Throne_Exterior_Wall_03
+[2019.06.28-14.28.21:450][527]LogStaticMesh: Building static mesh SM_Throne_Exterior_Wall_04...
+[2019.06.28-14.28.21:453][527]LogStaticMesh: Built static mesh [0.00s] /Game/Elemental/Environment/Throne_Exterior/Mesh/SM_Throne_Exterior_Wall_04.SM_Throne_Exterior_Wall_04
+[2019.06.28-14.28.21:506][527]LogStaticMesh: Building static mesh SM_Throne_Exterior_Wall_Broken_01...
+[2019.06.28-14.28.21:550][527]LogStaticMesh: Built static mesh [0.04s] /Game/Elemental/Environment/Throne_Exterior/Mesh/SM_Throne_Exterior_Wall_Broken_01.SM_Throne_Exterior_Wall_Broken_01
+[2019.06.28-14.28.21:656][527]LogStaticMesh: Building static mesh SM_Throne_Exterior_Wall_Broken_02...
+[2019.06.28-14.28.21:791][527]LogStaticMesh: Built static mesh [0.13s] /Game/Elemental/Environment/Throne_Exterior/Mesh/SM_Throne_Exterior_Wall_Broken_02.SM_Throne_Exterior_Wall_Broken_02
+[2019.06.28-14.28.21:843][527]LogStaticMesh: Building static mesh SM_Throne_Exterior_Wall_Broken_03...
+[2019.06.28-14.28.21:954][527]LogStaticMesh: Built static mesh [0.11s] /Game/Elemental/Environment/Throne_Exterior/Mesh/SM_Throne_Exterior_Wall_Broken_03.SM_Throne_Exterior_Wall_Broken_03
+[2019.06.28-14.28.21:985][527]LogStaticMesh: Building static mesh SM_Throne_Exterior_Wall_Broken_03_LOW...
+[2019.06.28-14.28.22:028][527]LogStaticMesh: Built static mesh [0.04s] /Game/Elemental/Environment/Throne_Exterior/Mesh/SM_Throne_Exterior_Wall_Broken_03_LOW.SM_Throne_Exterior_Wall_Broken_03_LOW
+[2019.06.28-14.28.22:046][527]LogStaticMesh: Building static mesh SM_Throne_Exterior_Wall_Curved_01...
+[2019.06.28-14.28.22:053][527]LogStaticMesh: Built static mesh [0.01s] /Game/Elemental/Environment/Throne_Exterior/Mesh/SM_Throne_Exterior_Wall_Curved_01.SM_Throne_Exterior_Wall_Curved_01
+[2019.06.28-14.28.22:070][527]LogStaticMesh: Building static mesh SM_Throne_Exterior_Wall_DoorBlocker_01...
+[2019.06.28-14.28.22:076][527]LogStaticMesh: Built static mesh [0.01s] /Game/Elemental/Environment/Throne_Exterior/Mesh/SM_Throne_Exterior_Wall_DoorBlocker_01.SM_Throne_Exterior_Wall_DoorBlocker_01
+[2019.06.28-14.28.22:094][527]LogStaticMesh: Building static mesh SM_Throne_Exterior_Wall_Pillar_01...
+[2019.06.28-14.28.22:113][527]LogStaticMesh: Built static mesh [0.02s] /Game/Elemental/Environment/Throne_Exterior/Mesh/SM_Throne_Exterior_Wall_Pillar_01.SM_Throne_Exterior_Wall_Pillar_01
+[2019.06.28-14.28.22:133][527]LogShaderCompilers: Display: Shaders left to compile 431
+[2019.06.28-14.28.22:133][527]LogStaticMesh: Building static mesh SM_Throne_Exterior_Wall_Pillar_02...
+[2019.06.28-14.28.22:144][527]LogStaticMesh: Built static mesh [0.01s] /Game/Elemental/Environment/Throne_Exterior/Mesh/SM_Throne_Exterior_Wall_Pillar_02.SM_Throne_Exterior_Wall_Pillar_02
+[2019.06.28-14.28.22:174][527]LogStaticMesh: Building static mesh SM_Throne_Exterior_Wall_Pillar_03...
+[2019.06.28-14.28.22:196][527]LogStaticMesh: Built static mesh [0.02s] /Game/Elemental/Environment/Throne_Exterior/Mesh/SM_Throne_Exterior_Wall_Pillar_03.SM_Throne_Exterior_Wall_Pillar_03
+[2019.06.28-14.28.22:219][527]LogStaticMesh: Building static mesh SM_Throne_Exterior_Wall_Window_01...
+[2019.06.28-14.28.22:314][527]LogStaticMesh: Built static mesh [0.10s] /Game/Elemental/Environment/Throne_Exterior/Mesh/SM_Throne_Exterior_Wall_Window_01.SM_Throne_Exterior_Wall_Window_01
+[2019.06.28-14.28.22:349][527]LogStaticMesh: Building static mesh SM_Throne_Exterior_Wall_Window_02...
+[2019.06.28-14.28.22:381][527]LogStaticMesh: Built static mesh [0.03s] /Game/Elemental/Environment/Throne_Exterior/Mesh/SM_Throne_Exterior_Wall_Window_02.SM_Throne_Exterior_Wall_Window_02
+[2019.06.28-14.28.22:399][527]LogStaticMesh: Building static mesh SM_Throne_Exterior_Wall_Window_03...
+[2019.06.28-14.28.22:416][527]LogStaticMesh: Built static mesh [0.02s] /Game/Elemental/Environment/Throne_Exterior/Mesh/SM_Throne_Exterior_Wall_Window_03.SM_Throne_Exterior_Wall_Window_03
+[2019.06.28-14.28.22:450][527]LogStaticMesh: Building static mesh SM_Throne_Exterior_WallTrim_01...
+[2019.06.28-14.28.22:474][527]LogStaticMesh: Built static mesh [0.02s] /Game/Elemental/Environment/Throne_Exterior/Mesh/SM_Throne_Exterior_WallTrim_01.SM_Throne_Exterior_WallTrim_01
+[2019.06.28-14.28.22:491][527]LogStaticMesh: Building static mesh SM_Throne_Exterior_WallTrim_02...
+[2019.06.28-14.28.22:503][527]LogStaticMesh: Built static mesh [0.01s] /Game/Elemental/Environment/Throne_Exterior/Mesh/SM_Throne_Exterior_WallTrim_02.SM_Throne_Exterior_WallTrim_02
+[2019.06.28-14.28.22:519][527]LogStaticMesh: Building static mesh SM_Throne_Exterior_WallTrim_Curved...
+[2019.06.28-14.28.22:527][527]LogStaticMesh: Built static mesh [0.01s] /Game/Elemental/Environment/Throne_Exterior/Mesh/SM_Throne_Exterior_WallTrim_Curved.SM_Throne_Exterior_WallTrim_Curved
+[2019.06.28-14.28.24:238][527]LogTexture: Display: Building textures: T_Arch_N (BC5, 2048X2048)
+[2019.06.28-14.28.24:238][527]LogTexture: Display: Building textures: T_Arch_S (AutoDXT, 2048X2048)
+[2019.06.28-14.28.24:238][527]LogTexture: Display: Building textures: T_Arch_D (AutoDXT, 2048X2048)
+[2019.06.28-14.28.24:238][527]LogShaderCompilers: Display: Shaders left to compile 421
+[2019.06.28-14.28.25:735][527]LogMaterial: Display: Missing cached shader map for material M_Archtecture_MASTEER, compiling. 
+[2019.06.28-14.28.25:801][527]LogMaterial: Display: Missing cached shader map for material M_Archtecture_MASTEER, compiling. 
+[2019.06.28-14.28.25:884][527]LogStaticMesh: Building static mesh SM_Throne_Interior_Cieling_5...
+[2019.06.28-14.28.25:909][527]LogStaticMesh: Built static mesh [0.03s] /Game/Elemental/Environment/Throne_Interior_Structure/Mesh/SM_Throne_Interior_Cieling_5.SM_Throne_Interior_Cieling_5
+[2019.06.28-14.28.25:952][527]LogStaticMesh: Building static mesh SM_Throne_Interior_Cieling_...
+[2019.06.28-14.28.25:977][527]LogStaticMesh: Built static mesh [0.03s] /Game/Elemental/Environment/Throne_Interior_Structure/Mesh/SM_Throne_Interior_Cieling_.SM_Throne_Interior_Cieling_
+[2019.06.28-14.28.25:993][527]LogMaterial: Display: Missing cached shader map for material M_Archtecture_MASTEER, compiling. 
+[2019.06.28-14.28.26:047][527]LogStaticMesh: Building static mesh SM_Throne_Interior_Pillar_9...
+[2019.06.28-14.28.26:049][527]LogStaticMesh: Built static mesh [0.00s] /Game/Elemental/Environment/Throne_Interior_Structure/Mesh/SM_Throne_Interior_Pillar_9.SM_Throne_Interior_Pillar_9
+[2019.06.28-14.28.26:472][527]LogTexture: Display: Building textures: T_BrokenPillar_M (AutoDXT, 512X256)
+[2019.06.28-14.28.26:472][527]LogTexture: Display: Building textures: T_BrokenPillar_N (BC5, 2048X1024)
+[2019.06.28-14.28.26:472][527]LogTexture: Display: Building textures: T_BrokenPillar_D (AutoDXT, 2048X1024)
+[2019.06.28-14.28.26:472][527]LogTexture: Display: Building textures: T_BrokenPillar_S (AutoDXT, 2048X1024)
+[2019.06.28-14.28.27:513][527]LogMaterial: Display: Missing cached shader map for material M_Archtecture_MASTEER, compiling. 
+[2019.06.28-14.28.27:575][527]LogShaderCompilers: Display: Shaders left to compile 618
+[2019.06.28-14.28.27:575][527]LogStaticMesh: Building static mesh SM_Throne_Interior_Pillar_Damaged_01...
+[2019.06.28-14.28.27:584][527]LogStaticMesh: Built static mesh [0.01s] /Game/Elemental/Environment/Throne_Interior/Mesh/SM_Throne_Interior_Pillar_Damaged_01.SM_Throne_Interior_Pillar_Damaged_01
+[2019.06.28-14.28.27:608][527]LogShaderCompilers: Display: Shaders left to compile 677
+[2019.06.28-14.28.27:608][527]LogStaticMesh: Building static mesh SM_Throne_Interior_Pillar_Damaged_02...
+[2019.06.28-14.28.27:615][527]LogStaticMesh: Built static mesh [0.01s] /Game/Elemental/Environment/Throne_Interior/Mesh/SM_Throne_Interior_Pillar_Damaged_02.SM_Throne_Interior_Pillar_Damaged_02
+[2019.06.28-14.28.27:632][527]LogStaticMesh: Building static mesh SM_Throne_Interior_Pillar_Damaged_03...
+[2019.06.28-14.28.27:639][527]LogStaticMesh: Built static mesh [0.01s] /Game/Elemental/Environment/Throne_Interior_Structure/Mesh/SM_Throne_Interior_Pillar_Damaged_03.SM_Throne_Interior_Pillar_Damaged_03
+[2019.06.28-14.28.33:330][527]LogShaderCompilers: Display: Shaders left to compile 667
+[2019.06.28-14.28.33:330][527]LogTexture: Display: Building textures: T_Throne_Interior_Stairs_N (BC5, 2048X2048)
+[2019.06.28-14.28.33:330][527]LogShaderCompilers: Display: Shaders left to compile 657
+[2019.06.28-14.28.33:330][527]LogTexture: Display: Building textures: T_ThroneRoom_StoneFloor01_Dama_2 (AutoDXT, 2048X2048)
+[2019.06.28-14.28.33:330][527]LogTexture: Display: Building textures: T_Throne_Interior_Stairs_D (AutoDXT, 2048X2048)
+[2019.06.28-14.28.33:330][527]LogTexture: Display: Building textures: T_ThroneRoom_StoneFloor01_Dama_3 (BC5, 2048X2048)
+[2019.06.28-14.28.33:330][527]LogTexture: Display: Building textures: T_Throne_Interior_Stairs_S (AutoDXT, 2048X2048)
+[2019.06.28-14.28.33:330][527]LogShaderCompilers: Display: Shaders left to compile 647
+[2019.06.28-14.28.33:330][527]LogShaderCompilers: Display: Shaders left to compile 637
+[2019.06.28-14.28.33:444][527]LogStaticMesh: Building static mesh SM_Throne_Interior_Stairs_0...
+[2019.06.28-14.28.33:450][527]LogStaticMesh: Built static mesh [0.01s] /Game/Elemental/Environment/Throne_Interior_Structure/Mesh/SM_Throne_Interior_Stairs_0.SM_Throne_Interior_Stairs_0
+[2019.06.28-14.28.33:494][527]LogStaticMesh: Building static mesh SM_Throne_Interior_Stairs_2...
+[2019.06.28-14.28.33:500][527]LogStaticMesh: Built static mesh [0.01s] /Game/Elemental/Environment/Throne_Interior_Structure/Mesh/SM_Throne_Interior_Stairs_2.SM_Throne_Interior_Stairs_2
+[2019.06.28-14.28.33:517][527]LogStaticMesh: Building static mesh SM_Throne_Interior_Wall_02...
+[2019.06.28-14.28.33:522][527]LogStaticMesh: Built static mesh [0.01s] /Game/Elemental/Environment/Throne_Interior_Structure/Mesh/SM_Throne_Interior_Wall_02.SM_Throne_Interior_Wall_02
+[2019.06.28-14.28.33:535][527]LogStaticMesh: Building static mesh SM_Throne_Interior_Wall_03...
+[2019.06.28-14.28.33:536][527]LogStaticMesh: Built static mesh [0.00s] /Game/Elemental/Environment/Throne_Interior_Structure/Mesh/SM_Throne_Interior_Wall_03.SM_Throne_Interior_Wall_03
+[2019.06.28-14.28.33:559][527]LogStaticMesh: Building static mesh SM_Throne_Interior_Wall_A_4...
+[2019.06.28-14.28.33:575][527]LogStaticMesh: Built static mesh [0.02s] /Game/Elemental/Environment/Throne_Interior_Structure/Mesh/SM_Throne_Interior_Wall_A_4.SM_Throne_Interior_Wall_A_4
+[2019.06.28-14.28.33:588][527]LogStaticMesh: Building static mesh SM_Throne_Interior_Wall_BrokenPiece_01...
+[2019.06.28-14.28.33:596][527]LogStaticMesh: Built static mesh [0.01s] /Game/Elemental/Environment/Throne_Interior_Structure/Mesh/SM_Throne_Interior_Wall_BrokenPiece_01.SM_Throne_Interior_Wall_BrokenPiece_01
+[2019.06.28-14.28.33:615][527]LogStaticMesh: Building static mesh SM_Throne_Interior_Wall_BrokenPiece_02...
+[2019.06.28-14.28.33:628][527]LogStaticMesh: Built static mesh [0.01s] /Game/Elemental/Environment/Throne_Interior_Structure/Mesh/SM_Throne_Interior_Wall_BrokenPiece_02.SM_Throne_Interior_Wall_BrokenPiece_02
+[2019.06.28-14.28.33:646][527]LogStaticMesh: Building static mesh SM_Throne_Interior_Wall_BrokenPiece_03...
+[2019.06.28-14.28.33:660][527]LogStaticMesh: Built static mesh [0.01s] /Game/Elemental/Environment/Throne_Interior_Structure/Mesh/SM_Throne_Interior_Wall_BrokenPiece_03.SM_Throne_Interior_Wall_BrokenPiece_03
+[2019.06.28-14.28.33:693][527]LogStaticMesh: Building static mesh SM_Throne_Interior_Wall_BrokenPiece_03_HQ1...
+[2019.06.28-14.28.33:719][527]LogStaticMesh: Built static mesh [0.03s] /Game/Elemental/Environment/Throne_Interior_Structure/Mesh/SM_Throne_Interior_Wall_BrokenPiece_03_HQ1.SM_Throne_Interior_Wall_BrokenPiece_03_HQ1
+[2019.06.28-14.28.33:733][527]LogStaticMesh: Building static mesh SM_Throne_Interior_Wall_BrokenPiece_04...
+[2019.06.28-14.28.33:737][527]LogStaticMesh: Built static mesh [0.00s] /Game/Elemental/Environment/Throne_Interior_Structure/Mesh/SM_Throne_Interior_Wall_BrokenPiece_04.SM_Throne_Interior_Wall_BrokenPiece_04
+[2019.06.28-14.28.33:764][527]LogStaticMesh: Building static mesh SM_Throne_Interior_Wall_BrokenPiece_04_HQ...
+[2019.06.28-14.28.33:782][527]LogStaticMesh: Built static mesh [0.02s] /Game/Elemental/Environment/Throne_Interior_Structure/Mesh/SM_Throne_Interior_Wall_BrokenPiece_04_HQ.SM_Throne_Interior_Wall_BrokenPiece_04_HQ
+[2019.06.28-14.28.33:794][527]LogStaticMesh: Building static mesh SM_Throne_Wall_01...
+[2019.06.28-14.28.33:798][527]LogStaticMesh: Built static mesh [0.00s] /Game/Elemental/Environment/Throne_Interior_Structure/Mesh/SM_Throne_Wall_01.SM_Throne_Wall_01
+[2019.06.28-14.28.33:832][527]LogStaticMesh: Building static mesh SM_Throne_Wall_01_HQ...
+[2019.06.28-14.28.33:871][527]LogStaticMesh: Built static mesh [0.04s] /Game/Elemental/Environment/Throne_Interior_Structure/Mesh/SM_Throne_Wall_01_HQ.SM_Throne_Wall_01_HQ
+[2019.06.28-14.28.33:902][527]LogStaticMesh: Building static mesh SM_Torch_03...
+[2019.06.28-14.28.33:924][527]LogStaticMesh: Built static mesh [0.02s] /Game/Elemental/Environment/Throne_Interior/Mesh/SM_Torch_03.SM_Torch_03
+[2019.06.28-14.28.34:543][527]LogTexture: Display: Building textures: T_Torch_N (BC5, 2048X2048)
+[2019.06.28-14.28.34:543][527]LogShaderCompilers: Display: Shaders left to compile 627
+[2019.06.28-14.28.34:543][527]LogTexture: Display: Building textures: T_Torch_D (DXT1, 2048X2048)
+[2019.06.28-14.28.34:543][527]LogTexture: Display: Building textures: T_Torch_S (DXT1, 2048X2048)
+[2019.06.28-14.28.36:363][527]LogShaderCompilers: Display: Shaders left to compile 617
+[2019.06.28-14.28.36:363][527]LogShaderCompilers: Display: Shaders left to compile 607
+[2019.06.28-14.28.36:939][527]LogTexture: Display: Building textures: tree_bark_1 (AutoDXT, 512X512)
+[2019.06.28-14.28.36:939][527]LogTexture: Display: Building textures: tree_bark_1_normal (AutoDXT, 512X512)
+[2019.06.28-14.28.36:939][527]LogTexture: Display: Building textures: pine_branch_1 (AutoDXT, 1024X512)
+[2019.06.28-14.28.36:939][527]LogMaterial: Display: Missing cached shader map for material tree_bark_1_Mat, compiling. 
+[2019.06.28-14.28.37:009][527]LogMaterial: Display: Missing cached shader map for material M_Pinebranch_1, compiling. 
+[2019.06.28-14.28.37:130][527]LogStaticMesh: Building static mesh SM_Wall_BrokenPiece_03_HQ...
+[2019.06.28-14.28.37:154][527]LogStaticMesh: Built static mesh [0.02s] /Game/Elemental/Environment/Throne_Interior_Structure/Mesh/SM_Wall_BrokenPiece_03_HQ.SM_Wall_BrokenPiece_03_HQ
+[2019.06.28-14.28.38:131][555]LogShaderCompilers: Display: Shaders left to compile 724
+[2019.06.28-14.28.38:523][585]LogShaderCompilers: Display: Shaders left to compile 714
+[2019.06.28-14.28.38:685][595]LogShaderCompilers: Display: Shaders left to compile 704
+[2019.06.28-14.28.40:184][735]LogShaderCompilers: Display: Shaders left to compile 694
+[2019.06.28-14.28.41:256][835]LogShaderCompilers: Display: Shaders left to compile 684
+[2019.06.28-14.28.41:526][860]LogShaderCompilers: Display: Shaders left to compile 674
+[2019.06.28-14.28.41:884][893]LogShaderCompilers: Display: Shaders left to compile 664
+[2019.06.28-14.28.43:701][ 64]LogShaderCompilers: Display: Shaders left to compile 654
+[2019.06.28-14.28.43:853][ 78]LogShaderCompilers: Display: Shaders left to compile 644
+[2019.06.28-14.28.44:509][137]LogShaderCompilers: Display: Shaders left to compile 634
+[2019.06.28-14.28.46:023][252]LogShaderCompilers: Display: Shaders left to compile 624
+[2019.06.28-14.28.46:820][313]LogShaderCompilers: Display: Shaders left to compile 614
+[2019.06.28-14.28.47:262][346]LogShaderCompilers: Display: Shaders left to compile 604
+[2019.06.28-14.28.47:734][381]LogShaderCompilers: Display: Shaders left to compile 594
+[2019.06.28-14.28.49:505][510]LogShaderCompilers: Display: Shaders left to compile 584
+[2019.06.28-14.28.50:014][545]LogShaderCompilers: Display: Shaders left to compile 574
+[2019.06.28-14.28.50:626][585]LogShaderCompilers: Display: Shaders left to compile 564
+[2019.06.28-14.28.51:927][699]LogShaderCompilers: Display: Shaders left to compile 554
+[2019.06.28-14.28.52:245][726]LogShaderCompilers: Display: Shaders left to compile 544
+[2019.06.28-14.28.53:202][811]LogShaderCompilers: Display: Shaders left to compile 534
+[2019.06.28-14.28.53:874][870]LogShaderCompilers: Display: Shaders left to compile 524
+[2019.06.28-14.28.54:718][944]LogShaderCompilers: Display: Shaders left to compile 514
+[2019.06.28-14.28.55:959][ 52]LogShaderCompilers: Display: Shaders left to compile 504
+[2019.06.28-14.28.56:871][128]LogShaderCompilers: Display: Shaders left to compile 494
+[2019.06.28-14.28.57:627][194]LogShaderCompilers: Display: Shaders left to compile 484
+[2019.06.28-14.28.57:858][214]LogShaderCompilers: Display: Shaders left to compile 474
+[2019.06.28-14.28.59:779][381]LogShaderCompilers: Display: Shaders left to compile 464
+[2019.06.28-14.28.59:908][392]LogShaderCompilers: Display: Shaders left to compile 454
+[2019.06.28-14.29.00:303][427]LogShaderCompilers: Display: Shaders left to compile 444
+[2019.06.28-14.29.01:823][559]LogShaderCompilers: Display: Shaders left to compile 434
+[2019.06.28-14.29.03:006][657]LogShaderCompilers: Display: Shaders left to compile 424
+[2019.06.28-14.29.03:572][696]LogShaderCompilers: Display: Shaders left to compile 414
+[2019.06.28-14.29.04:142][735]LogShaderCompilers: Display: Shaders left to compile 404
+[2019.06.28-14.29.06:273][879]LogShaderCompilers: Display: Shaders left to compile 394
+[2019.06.28-14.29.06:382][886]LogShaderCompilers: Display: Shaders left to compile 384
+[2019.06.28-14.29.06:696][907]LogShaderCompilers: Display: Shaders left to compile 374
+[2019.06.28-14.29.08:023][998]LogShaderCompilers: Display: Shaders left to compile 364
+[2019.06.28-14.29.09:453][ 95]LogShaderCompilers: Display: Shaders left to compile 354
+[2019.06.28-14.29.10:370][159]LogShaderCompilers: Display: Shaders left to compile 344
+[2019.06.28-14.29.10:534][171]LogShaderCompilers: Display: Shaders left to compile 334
+[2019.06.28-14.29.12:008][273]LogShaderCompilers: Display: Shaders left to compile 324
+[2019.06.28-14.29.12:128][282]LogShaderCompilers: Display: Shaders left to compile 314
+[2019.06.28-14.29.12:870][338]LogShaderCompilers: Display: Shaders left to compile 304
+[2019.06.28-14.29.14:119][426]LogShaderCompilers: Display: Shaders left to compile 294
+[2019.06.28-14.29.16:494][561]LogShaderCompilers: Display: Shaders left to compile 284
+[2019.06.28-14.29.16:506][562]LogShaderCompilers: Display: Shaders left to compile 274
+[2019.06.28-14.29.17:004][606]LogShaderCompilers: Display: Shaders left to compile 264
+[2019.06.28-14.29.17:767][670]LogSlate: Window 'Asset Report' being destroyed
+[2019.06.28-14.29.24:277][671]LogShaderCompilers: Display: Shaders left to compile 254
+[2019.06.28-14.29.24:277][671]LogShaderCompilers: Display: Shaders left to compile 244
+[2019.06.28-14.29.24:277][671]LogShaderCompilers: Display: Shaders left to compile 234
+[2019.06.28-14.29.24:277][671]LogShaderCompilers: Display: Shaders left to compile 224
+[2019.06.28-14.29.24:277][671]LogShaderCompilers: Display: Shaders left to compile 214
+[2019.06.28-14.29.24:277][671]LogShaderCompilers: Display: Shaders left to compile 204
+[2019.06.28-14.29.24:277][671]LogShaderCompilers: Display: Shaders left to compile 194
+[2019.06.28-14.29.25:265][746]LogShaderCompilers: Display: Shaders left to compile 184
+[2019.06.28-14.29.27:866][964]LogShaderCompilers: Display: Shaders left to compile 174
+[2019.06.28-14.29.27:927][969]LogShaderCompilers: Display: Shaders left to compile 164
+[2019.06.28-14.29.28:485][ 16]LogShaderCompilers: Display: Shaders left to compile 154
+[2019.06.28-14.29.33:452][434]LogShaderCompilers: Display: Shaders left to compile 144
+[2019.06.28-14.29.33:534][441]LogShaderCompilers: Display: Shaders left to compile 134
+[2019.06.28-14.29.33:601][447]LogShaderCompilers: Display: Shaders left to compile 124
+[2019.06.28-14.29.33:610][448]LogShaderCompilers: Display: Shaders left to compile 114
+[2019.06.28-14.29.36:808][709]LogShaderCompilers: Display: Shaders left to compile 104
+[2019.06.28-14.29.37:903][801]LogShaderCompilers: Display: Shaders left to compile 94
+[2019.06.28-14.29.38:208][827]LogShaderCompilers: Display: Shaders left to compile 84
+[2019.06.28-14.29.39:878][969]LogShaderCompilers: Display: Shaders left to compile 74
+[2019.06.28-14.29.40:128][989]LogShaderCompilers: Display: Shaders left to compile 64
+[2019.06.28-14.29.41:356][ 92]LogShaderCompilers: Display: Shaders left to compile 54
+[2019.06.28-14.29.43:330][249]LogShaderCompilers: Display: Shaders left to compile 44
+[2019.06.28-14.29.43:678][275]LogShaderCompilers: Display: Shaders left to compile 34
+[2019.06.28-14.29.44:217][313]LogShaderCompilers: Display: Shaders left to compile 24
+[2019.06.28-14.29.44:378][325]LogShaderCompilers: Display: Shaders left to compile 14
+[2019.06.28-14.29.45:673][419]LogShaderCompilers: Display: Shaders left to compile 4
+[2019.06.28-14.30.57:398][855]LogActorFactory: Actor Factory created SM_Throne_Interior_Wall_BrokenPiece_04_HQ
+[2019.06.28-14.30.57:719][892]LogActorFactory: Actor Factory created SM_Throne_Interior_Wall_BrokenPiece_04_HQ
+[2019.06.28-14.31.00:169][125]Cmd: DELETE
+[2019.06.28-14.31.00:169][125]Cmd: ACTOR DELETE
+[2019.06.28-14.31.00:172][125]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.06.28-14.31.00:195][125]LogEditorActor: Deleted 1 Actors (0.026 secs)
+[2019.06.28-14.32.55:662][298]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.28-14.32.55:777][298]LogTemp: Repeating last play command: Selected Viewport
+[2019.06.28-14.32.55:796][298]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.06.28-14.32.55:808][298]PIE: New page: PIE session: SummerShorts (Jun 28, 2019, 6:32:55 AM)
+[2019.06.28-14.32.55:809][298]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_SummerShorts
+[2019.06.28-14.32.55:816][298]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007903s)
+[2019.06.28-14.32.55:817][298]LogAIModule: Creating AISystem for world SummerShorts
+[2019.06.28-14.32.55:817][298]LogPlayLevel: PIE: World Init took: (0.000931s)
+[2019.06.28-14.32.55:818][298]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SummerShorts.SummerShorts to /Game/UEDPIE_0_SummerShorts.SummerShorts (0.008974s)
+[2019.06.28-14.32.55:841][298]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.06.28-14.32.55:855][298]LogInit: FAudioDevice initialized.
+[2019.06.28-14.32.55:896][298]LogLoad: Game class is 'RollingGameMode_C'
+[2019.06.28-14.32.55:898][298]LogWorld: Bringing World /Game/UEDPIE_0_SummerShorts.SummerShorts up for play (max tick rate 0) at 2019.06.28-10.32.55
+[2019.06.28-14.32.55:898][298]LogWorld: Bringing up level for play took: 0.001380
+[2019.06.28-14.32.55:914][298]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 10 classes and 0 folders.
+[2019.06.28-14.32.55:914][298]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=0.000 Y=0.000 Z=112.001] for [PhysicsBallBP_C]
+[2019.06.28-14.32.55:914][298]LogGameMode: Warning: SpawnDefaultPawnAtTransform: Couldn't spawn Pawn of type PhysicsBallBP_C at Rotation: Pitch 0.000000 Yaw 0.000000 Roll 0.000000
+Translation: 0.000000 0.000000 112.000687
+Scale3D: 1.000000 1.000000 1.000000
+
+[2019.06.28-14.32.55:915][298]PIE: Play in editor start time for /Game/UEDPIE_0_SummerShorts -0.811
+[2019.06.28-14.32.57:256][448]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.28-14.32.57:288][448]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.06.28-14.32.57:311][448]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.28-14.32.57:357][453]LogPlayLevel: Display: Destroying online subsystem :Context_3
+[2019.06.28-14.33.03:595][190]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.06.28-14.33.04:541][304]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2019.06.28-14.33.04:944][347]LogEditorViewport: Clicking on Actor (context menu): Landscape (Landscape)
+[2019.06.28-14.33.04:966][347]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.06.28-14.33.05:998][468]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.06.28-14.33.05:998][468]PIE: New page: PIE session: SummerShorts (Jun 28, 2019, 6:33:05 AM)
+[2019.06.28-14.33.05:998][468]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_SummerShorts
+[2019.06.28-14.33.06:006][468]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007325s)
+[2019.06.28-14.33.06:006][468]LogAIModule: Creating AISystem for world SummerShorts
+[2019.06.28-14.33.06:006][468]LogPlayLevel: PIE: World Init took: (0.000622s)
+[2019.06.28-14.33.06:006][468]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SummerShorts.SummerShorts to /Game/UEDPIE_0_SummerShorts.SummerShorts (0.008064s)
+[2019.06.28-14.33.06:031][468]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.06.28-14.33.06:044][468]LogInit: FAudioDevice initialized.
+[2019.06.28-14.33.06:044][468]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.06.28-14.33.06:074][468]LogLoad: Game class is 'RollingGameMode_C'
+[2019.06.28-14.33.06:075][468]LogWorld: Bringing World /Game/UEDPIE_0_SummerShorts.SummerShorts up for play (max tick rate 0) at 2019.06.28-10.33.06
+[2019.06.28-14.33.06:075][468]LogWorld: Bringing up level for play took: 0.001223
+[2019.06.28-14.33.06:088][468]PIE: Play in editor start time for /Game/UEDPIE_0_SummerShorts -0.638
+[2019.06.28-14.33.47:537][438]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.28-14.33.47:568][438]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.06.28-14.33.47:590][438]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.28-14.33.47:641][443]LogPlayLevel: Display: Destroying online subsystem :Context_4
+[2019.06.28-14.36.17:221][543]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.28-14.36.48:649][117]LogMaterial: Display: Missing cached shader map for material Material_0, compiling. 
+[2019.06.28-14.36.48:664][118]LogShaderCompilers: Display: Shaders left to compile 5
+[2019.06.28-14.37.54:766][826]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SummerShorts" FILE="E:/test/ue4/SummerShorts/Saved/Autosaves/Game/SummerShorts_Auto1.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2019.06.28-14.37.54:970][826]LogSavePackage: Moving 'E:/test/ue4/SummerShorts/Saved/SummerShorts_Auto1D8E6F7AC442E00B1C0B8B3B059C3955D.tmp' to 'E:/test/ue4/SummerShorts/Saved/Autosaves/Game/SummerShorts_Auto1.umap'
+[2019.06.28-14.37.54:975][826]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/SummerShorts' took 0.290
+[2019.06.28-14.37.54:975][826]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.290
+[2019.06.28-14.38.36:109][634]LogActorFactory: Actor Factory created SM_Bush
+[2019.06.28-14.38.36:482][678]LogActorFactory: Actor Factory created SM_Bush
+[2019.06.28-14.38.38:833][955]Cmd: DELETE
+[2019.06.28-14.38.38:833][955]Cmd: ACTOR DELETE
+[2019.06.28-14.38.38:836][955]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.06.28-14.38.38:858][955]LogEditorActor: Deleted 1 Actors (0.024 secs)
+[2019.06.28-14.39.38:067][ 43]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.28-14.39.50:585][410]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2019.06.28-14.39.52:064][573]LogTemp: Executing iPhonePackager certificates Engine -bundlename com.YourCompany.SummerShorts
+[2019.06.28-14.39.52:064][573]LogTemp: CWD: C:\Program Files\Epic Games\UE_4.20\Engine\Binaries\DotNET\IOS
+[2019.06.28-14.39.52:064][573]LogTemp: Initial Dir: C:\Program Files\Epic Games\UE_4.20
+[2019.06.28-14.39.52:064][573]LogTemp: Env CWD: C:\Program Files\Epic Games\UE_4.20\Engine\Binaries\DotNET\IOS
+[2019.06.28-14.39.52:072][574]LogTemp: BranchPath = B112-01/C/Program Files/Epic Games/UE_4.20/Engine/Binaries --- GameBranchPath = B112-01/C/Program Files/Epic Games/UE_4.20/Engine/Binaries
+[2019.06.28-14.39.52:088][576]LogTemp: IPP ERROR: Could not find provision directory 'C:\Users\100653103\AppData\Local/Apple Computer/MobileDevice/Provisioning Profiles/'.
+[2019.06.28-14.42.21:724][527]LogSlate: Window 'Project Settings' being destroyed
+[2019.06.28-14.42.21:727][527]LogSlate: Window 'Project Settings' being destroyed
+[2019.06.28-14.42.25:297][934]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SummerShorts" FILE="E:/test/ue4/SummerShorts/Content/SummerShorts.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.06.28-14.42.25:821][934]LogSavePackage: Moving 'E:/test/ue4/SummerShorts/Saved/SummerShorts22BCFD384A05D9F848358EA53AF5D586.tmp' to 'E:/test/ue4/SummerShorts/Content/SummerShorts.umap'
+[2019.06.28-14.42.25:865][934]LogFileHelpers: Saving map 'SummerShorts' took 0.679
+[2019.06.28-14.45.53:083][640]LogActorFactory: Actor Factory created SM_Throne_Exterior_CoverBlo
+[2019.06.28-14.45.53:315][667]LogActorFactory: Actor Factory created SM_Throne_Exterior_CoverBlo
+[2019.06.28-14.45.56:750][ 64]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.28-14.45.56:872][ 75]LogActorFactory: Actor Factory created SM_Throne_Exterior_Wall_01
+[2019.06.28-14.45.56:995][ 86]LogActorFactory: Actor Factory created SM_Throne_Exterior_Wall_01
+[2019.06.28-14.45.57:602][152]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.28-14.45.57:762][168]LogActorFactory: Actor Factory created SM_Throne_Exterior_Wall_02
+[2019.06.28-14.45.57:866][178]LogActorFactory: Actor Factory created SM_Throne_Exterior_Wall_02
+[2019.06.28-14.45.58:550][250]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.28-14.45.58:702][266]LogActorFactory: Actor Factory created SM_Throne_Exterior_Wall_04
+[2019.06.28-14.45.58:812][276]LogActorFactory: Actor Factory created SM_Throne_Exterior_Wall_04
+[2019.06.28-14.46.00:025][416]Cmd: DELETE
+[2019.06.28-14.46.00:026][416]Cmd: ACTOR DELETE
+[2019.06.28-14.46.00:029][416]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.06.28-14.46.00:050][416]LogEditorActor: Deleted 1 Actors (0.024 secs)
+[2019.06.28-14.46.00:690][492]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Throne_Exterior_Wall_01)
+[2019.06.28-14.46.00:798][499]Cmd: DELETE
+[2019.06.28-14.46.00:798][499]Cmd: ACTOR DELETE
+[2019.06.28-14.46.00:801][499]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.06.28-14.46.00:825][499]LogEditorActor: Deleted 1 Actors (0.027 secs)
+[2019.06.28-14.46.01:295][555]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Throne_Exterior_CoverBlo)
+[2019.06.28-14.46.01:494][573]Cmd: DELETE
+[2019.06.28-14.46.01:494][573]Cmd: ACTOR DELETE
+[2019.06.28-14.46.01:497][573]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.06.28-14.46.01:520][573]LogEditorActor: Deleted 1 Actors (0.025 secs)
+[2019.06.28-14.46.01:922][621]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Throne_Exterior_Wall_02)
+[2019.06.28-14.46.02:103][637]Cmd: DELETE
+[2019.06.28-14.46.02:103][637]Cmd: ACTOR DELETE
+[2019.06.28-14.46.02:106][637]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.06.28-14.46.02:128][637]LogEditorActor: Deleted 1 Actors (0.024 secs)
+[2019.06.28-14.46.29:155][873]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.28-14.46.29:308][890]LogActorFactory: Actor Factory created SM_Wall_BrokenPiece_03_HQ
+[2019.06.28-14.46.29:624][927]LogActorFactory: Actor Factory created SM_Wall_BrokenPiece_03_HQ
+[2019.06.28-14.46.35:299][599]Cmd: DELETE
+[2019.06.28-14.46.35:299][599]Cmd: ACTOR DELETE
+[2019.06.28-14.46.35:302][599]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.06.28-14.46.35:325][599]LogEditorActor: Deleted 1 Actors (0.026 secs)
+[2019.06.28-14.46.40:699][240]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.28-14.46.42:683][347]LogSlate: Window 'Delete Assets' being destroyed
+[2019.06.28-14.46.46:476][649]LogSlate: Window 'Delete Assets' being destroyed
+[2019.06.28-14.46.50:391][985]LogSlate: Window 'Delete Assets' being destroyed
+[2019.06.28-14.46.53:337][212]LogSlate: Window 'Delete Assets' being destroyed
+[2019.06.28-14.47.06:743][670]LogSlate: Window 'Delete Assets' being destroyed
+[2019.06.28-14.47.10:315][945]LogSlate: Window 'Delete Assets' being destroyed
+[2019.06.28-14.47.13:156][157]LogSlate: Window 'Delete Assets' being destroyed
+[2019.06.28-14.47.18:232][735]LogActorFactory: Actor Factory created SM_Throne_Interior_Stairs_2
+[2019.06.28-14.47.18:463][762]LogActorFactory: Actor Factory created SM_Throne_Interior_Stairs_2
+[2019.06.28-14.47.20:773][ 28]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.28-14.47.21:012][ 54]LogActorFactory: Actor Factory created SM_Throne_Interior_Stairs_0
+[2019.06.28-14.47.21:542][111]LogActorFactory: Actor Factory created SM_Throne_Interior_Stairs_0
+[2019.06.28-14.47.29:691][ 67]Cmd: DELETE
+[2019.06.28-14.47.29:691][ 67]Cmd: ACTOR DELETE
+[2019.06.28-14.47.29:694][ 67]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.06.28-14.47.29:715][ 67]LogEditorActor: Deleted 1 Actors (0.024 secs)
+[2019.06.28-14.47.30:400][148]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.28-14.47.32:055][221]LogSlate: Window 'Delete Assets' being destroyed
+[2019.06.28-14.47.33:087][320]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Throne_Interior_Stairs_2)
+[2019.06.28-14.47.33:310][341]Cmd: DELETE
+[2019.06.28-14.47.33:310][341]Cmd: ACTOR DELETE
+[2019.06.28-14.47.33:313][341]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.06.28-14.47.33:333][341]LogEditorActor: Deleted 1 Actors (0.023 secs)
+[2019.06.28-14.47.34:338][461]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.28-14.47.34:457][474]LogActorFactory: Actor Factory created SM_Throne_Interior_Stairs_2
+[2019.06.28-14.47.35:089][549]LogActorFactory: Actor Factory created SM_Throne_Interior_Stairs_2
+[2019.06.28-14.47.37:226][798]Cmd: DELETE
+[2019.06.28-14.47.37:227][798]Cmd: ACTOR DELETE
+[2019.06.28-14.47.37:229][798]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.06.28-14.47.37:252][798]LogEditorActor: Deleted 1 Actors (0.025 secs)
+[2019.06.28-14.47.46:467][896]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.28-14.47.46:617][913]LogActorFactory: Actor Factory created SM_CaveFloor_01
+[2019.06.28-14.47.47:484][ 16]LogActorFactory: Actor Factory created SM_CaveFloor_01
+[2019.06.28-14.47.51:502][479]Cmd: DELETE
+[2019.06.28-14.47.51:502][479]Cmd: ACTOR DELETE
+[2019.06.28-14.47.51:505][479]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.06.28-14.47.51:527][479]LogEditorActor: Deleted 1 Actors (0.025 secs)
+[2019.06.28-14.47.52:537][599]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.28-14.47.53:901][637]LogSlate: Window 'Delete Assets' being destroyed
+[2019.06.28-14.48.34:635][484]LogActorFactory: Actor Factory created SM_Throne_Interior_Pillar_Damaged_03
+[2019.06.28-14.48.35:122][541]LogActorFactory: Actor Factory created SM_Throne_Interior_Pillar_Damaged_03
+[2019.06.28-14.48.36:048][647]Cmd: DELETE
+[2019.06.28-14.48.36:048][647]Cmd: ACTOR DELETE
+[2019.06.28-14.48.36:051][647]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.06.28-14.48.36:073][647]LogEditorActor: Deleted 1 Actors (0.026 secs)
+[2019.06.28-14.48.36:729][725]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.28-14.48.37:792][754]LogSlate: Window 'Delete Assets' being destroyed
+[2019.06.28-14.48.39:964][910]LogSlate: Window 'Delete Assets' being destroyed
+[2019.06.28-14.48.46:457][670]LogActorFactory: Actor Factory created SM_Throne_Exterior_Wall_Window_01
+[2019.06.28-14.48.47:006][735]LogActorFactory: Actor Factory created SM_Throne_Exterior_Wall_Window_01
+[2019.06.28-14.48.47:976][841]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.28-14.48.48:137][858]LogActorFactory: Actor Factory created SM_Throne_Exterior_Wall_Window_02
+[2019.06.28-14.48.50:183][ 89]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.06.28-14.48.50:964][179]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2019.06.28-14.48.51:739][267]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Throne_Exterior_Wall_Window_01)
+[2019.06.28-14.48.51:947][286]Cmd: DELETE
+[2019.06.28-14.48.51:947][286]Cmd: ACTOR DELETE
+[2019.06.28-14.48.51:950][286]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.06.28-14.48.51:973][286]LogEditorActor: Deleted 1 Actors (0.026 secs)
+[2019.06.28-14.48.55:578][717]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.28-14.50.34:139][290]LogSlate: Window 'Delete Assets' being destroyed
+[2019.06.28-14.50.39:409][845]LogActorFactory: Actor Factory created SM_Throne_Interior_Cieling_5
+[2019.06.28-14.50.42:708][240]LogActorFactory: Actor Factory created SM_Throne_Interior_Cieling_5
+[2019.06.28-14.50.43:417][314]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.28-14.50.43:631][337]LogActorFactory: Actor Factory created SM_Throne_Interior_Cieling_
+[2019.06.28-14.50.45:346][535]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.06.28-14.50.45:902][597]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2019.06.28-14.50.46:461][659]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Throne_Interior_Cieling_5)
+[2019.06.28-14.50.47:211][743]Cmd: DELETE
+[2019.06.28-14.50.47:211][743]Cmd: ACTOR DELETE
+[2019.06.28-14.50.47:214][743]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.06.28-14.50.47:234][743]LogEditorActor: Deleted 1 Actors (0.024 secs)
+[2019.06.28-14.50.49:074][962]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.28-14.50.53:191][279]LogSlate: Window 'Delete Assets' being destroyed
+[2019.06.28-14.50.53:203][279]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.06.28-14.50.53:224][279]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.06.28-14.50.53:343][279]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.06.28-14.50.57:166][723]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.28-14.50.59:149][955]LogActorFactory: Actor Factory created SM_Throne_Exterior_DoorArch
+[2019.06.28-14.50.59:446][990]LogActorFactory: Actor Factory created SM_Throne_Exterior_DoorArch
+[2019.06.28-14.51.00:660][126]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.28-14.51.00:816][142]LogActorFactory: Actor Factory created SM_Throne_Exterior_Wall_DoorBlocker_01
+[2019.06.28-14.51.03:146][407]LogActorFactory: Actor Factory created SM_Throne_Exterior_Wall_DoorBlocker_01
+[2019.06.28-14.51.07:448][905]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Throne_Exterior_DoorArch)
+[2019.06.28-14.51.08:228][993]Cmd: DELETE
+[2019.06.28-14.51.08:228][993]Cmd: ACTOR DELETE
+[2019.06.28-14.51.08:231][993]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.06.28-14.51.08:253][993]LogEditorActor: Deleted 1 Actors (0.025 secs)
+[2019.06.28-14.51.08:616][ 36]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Throne_Exterior_Wall_DoorBlocker_01)
+[2019.06.28-14.51.08:732][ 44]Cmd: DELETE
+[2019.06.28-14.51.08:732][ 44]Cmd: ACTOR DELETE
+[2019.06.28-14.51.08:735][ 44]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.06.28-14.51.08:757][ 44]LogEditorActor: Deleted 1 Actors (0.025 secs)
+[2019.06.28-14.51.13:420][600]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.28-14.51.13:563][616]LogActorFactory: Actor Factory created SM_Throne_Exterior_Wall_04
+[2019.06.28-14.51.13:793][643]LogActorFactory: Actor Factory created SM_Throne_Exterior_Wall_04
+[2019.06.28-14.51.14:819][758]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.28-14.51.15:004][778]LogActorFactory: Actor Factory created SM_Throne_Exterior_Wall_02
+[2019.06.28-14.51.15:662][851]LogActorFactory: Actor Factory created SM_Throne_Exterior_Wall_02
+[2019.06.28-14.51.16:252][915]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.28-14.51.16:403][931]LogActorFactory: Actor Factory created SM_Throne_Exterior_Wall_01
+[2019.06.28-14.51.16:767][971]LogActorFactory: Actor Factory created SM_Throne_Exterior_Wall_01
+[2019.06.28-14.51.19:581][303]Cmd: DELETE
+[2019.06.28-14.51.19:581][303]Cmd: ACTOR DELETE
+[2019.06.28-14.51.19:584][303]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.06.28-14.51.19:606][303]LogEditorActor: Deleted 1 Actors (0.025 secs)
+[2019.06.28-14.51.20:958][465]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Throne_Exterior_Wall_02)
+[2019.06.28-14.51.21:766][556]Cmd: DELETE
+[2019.06.28-14.51.21:766][556]Cmd: ACTOR DELETE
+[2019.06.28-14.51.21:769][556]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.06.28-14.51.21:790][556]LogEditorActor: Deleted 1 Actors (0.024 secs)
+[2019.06.28-14.51.22:950][695]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Throne_Exterior_Wall_04)
+[2019.06.28-14.51.23:725][782]Cmd: DELETE
+[2019.06.28-14.51.23:725][782]Cmd: ACTOR DELETE
+[2019.06.28-14.51.23:728][782]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.06.28-14.51.23:750][782]LogEditorActor: Deleted 1 Actors (0.025 secs)
+[2019.06.28-14.51.25:690][ 13]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.28-14.51.27:783][105]LogSlate: Window 'Delete Assets' being destroyed
+[2019.06.28-14.51.47:864][315]LogSlate: Window 'Delete Assets' being destroyed
+[2019.06.28-14.51.51:003][485]LogSlate: Window 'Delete Assets' being destroyed
+[2019.06.28-14.51.52:838][677]LogActorFactory: Actor Factory created SM_Throne_Interior_Wall_BrokenPiece_01
+[2019.06.28-14.51.53:188][718]LogActorFactory: Actor Factory created SM_Throne_Interior_Wall_BrokenPiece_01
+[2019.06.28-14.51.54:235][837]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.28-14.51.54:370][851]LogActorFactory: Actor Factory created SM_Throne_Interior_Wall_BrokenPiece_02
+[2019.06.28-14.51.55:333][959]LogActorFactory: Actor Factory created SM_Throne_Interior_Wall_BrokenPiece_02
+[2019.06.28-14.51.56:232][ 62]Cmd: DELETE
+[2019.06.28-14.51.56:232][ 62]Cmd: ACTOR DELETE
+[2019.06.28-14.51.56:235][ 62]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.06.28-14.51.56:258][ 62]LogEditorActor: Deleted 1 Actors (0.025 secs)
+[2019.06.28-14.51.57:352][193]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Throne_Interior_Wall_BrokenPiece_01)
+[2019.06.28-14.51.58:018][267]Cmd: DELETE
+[2019.06.28-14.51.58:018][267]Cmd: ACTOR DELETE
+[2019.06.28-14.51.58:021][267]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.06.28-14.51.58:044][267]LogEditorActor: Deleted 1 Actors (0.025 secs)
+[2019.06.28-14.51.59:255][412]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.28-14.52.01:173][495]LogSlate: Window 'Delete Assets' being destroyed
+[2019.06.28-14.52.02:698][648]LogActorFactory: Actor Factory created SM_Throne_Interior_Wall_02
+[2019.06.28-14.52.03:928][795]LogActorFactory: Actor Factory created SM_Throne_Interior_Wall_02
+[2019.06.28-14.52.05:380][964]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.06.28-14.52.10:863][620]Cmd: DELETE
+[2019.06.28-14.52.10:863][620]Cmd: ACTOR DELETE
+[2019.06.28-14.52.10:866][620]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.06.28-14.52.10:888][620]LogEditorActor: Deleted 1 Actors (0.024 secs)
+[2019.06.28-14.52.30:069][916]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.28-14.52.30:209][931]LogActorFactory: Actor Factory created SM_Throne_Exterior_Wall_Window_01
+[2019.06.28-14.52.30:766][997]LogActorFactory: Actor Factory created SM_Throne_Exterior_Wall_Window_01
+[2019.06.28-14.52.31:652][ 96]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.28-14.52.31:784][110]LogActorFactory: Actor Factory created SM_Throne_Exterior_Wall_Curved_01
+[2019.06.28-14.52.33:324][288]LogActorFactory: Actor Factory created SM_Throne_Exterior_Wall_Curved_01
+[2019.06.28-14.52.34:633][440]Cmd: DELETE
+[2019.06.28-14.52.34:633][440]Cmd: ACTOR DELETE
+[2019.06.28-14.52.34:636][440]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.06.28-14.52.34:659][440]LogEditorActor: Deleted 1 Actors (0.025 secs)
+[2019.06.28-14.52.38:431][891]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.28-14.52.38:639][915]LogActorFactory: Actor Factory created SM_Throne_Exterior_DoorArch
+[2019.06.28-14.52.39:470][ 14]LogActorFactory: Actor Factory created SM_Throne_Exterior_DoorArch
+[2019.06.28-14.52.40:201][ 95]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.28-14.52.40:509][130]LogActorFactory: Actor Factory created SM_Throne_Exterior_Wall_02
+[2019.06.28-14.52.41:402][230]LogActorFactory: Actor Factory created SM_Throne_Exterior_Wall_02
+[2019.06.28-14.52.42:960][408]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.28-14.52.43:201][435]LogActorFactory: Actor Factory created SM_Throne_Exterior_Wall_03
+[2019.06.28-14.52.46:210][790]LogActorFactory: Actor Factory created SM_Throne_Exterior_Wall_03
+[2019.06.28-14.52.47:964][994]Cmd: DELETE
+[2019.06.28-14.52.47:964][994]Cmd: ACTOR DELETE
+[2019.06.28-14.52.47:966][994]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.06.28-14.52.47:987][994]LogEditorActor: Deleted 1 Actors (0.024 secs)
+[2019.06.28-14.52.49:282][149]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.28-14.52.51:484][246]LogSlate: Window 'Delete Assets' being destroyed
+[2019.06.28-14.52.53:065][407]LogActorFactory: Actor Factory created SM_Throne_Exterior_Wall_04
+[2019.06.28-14.52.58:238][ 27]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.06.28-14.53.00:957][191]LogSlate: Window 'Delete Assets' being destroyed
+[2019.06.28-14.53.00:968][191]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.06.28-14.53.00:988][191]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.06.28-14.53.01:113][191]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.06.28-14.53.01:835][267]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.28-14.53.02:025][288]LogActorFactory: Actor Factory created SM_Throne_Exterior_Wall_Broken_01
+[2019.06.28-14.53.02:687][367]LogActorFactory: Actor Factory created SM_Throne_Exterior_Wall_Broken_01
+[2019.06.28-14.53.07:735][962]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.28-14.53.07:919][982]LogActorFactory: Actor Factory created SM_Throne_Exterior_Wall_Broken_02
+[2019.06.28-14.53.09:016][107]LogActorFactory: Actor Factory created SM_Throne_Exterior_Wall_Broken_02
+[2019.06.28-14.53.09:642][175]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.28-14.53.09:926][207]LogActorFactory: Actor Factory created SM_Throne_Exterior_Wall_Broken_03_LOW
+[2019.06.28-14.53.11:184][352]LogActorFactory: Actor Factory created SM_Throne_Exterior_Wall_Broken_03_LOW
+[2019.06.28-14.53.11:942][436]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.28-14.53.12:112][455]LogActorFactory: Actor Factory created SM_Throne_Exterior_Wall_Curved_01
+[2019.06.28-14.53.12:939][546]LogActorFactory: Actor Factory created SM_Throne_Exterior_Wall_Curved_01
+[2019.06.28-14.53.14:642][743]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.28-14.53.14:816][762]LogActorFactory: Actor Factory created SM_Throne_Exterior_Wall_DoorBlocker_01
+[2019.06.28-14.53.15:512][841]LogActorFactory: Actor Factory created SM_Throne_Exterior_Wall_DoorBlocker_01
+[2019.06.28-14.53.16:339][934]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.28-14.53.16:505][952]LogActorFactory: Actor Factory created SM_Throne_Exterior_Wall_Pillar_01
+[2019.06.28-14.53.17:139][ 23]LogActorFactory: Actor Factory created SM_Throne_Exterior_Wall_Pillar_01
+[2019.06.28-14.53.17:765][ 92]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.28-14.53.17:948][112]LogActorFactory: Actor Factory created SM_Throne_Exterior_Wall_Pillar_02
+[2019.06.28-14.53.18:976][229]LogActorFactory: Actor Factory created SM_Throne_Exterior_Wall_Pillar_02
+[2019.06.28-14.53.19:448][280]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.28-14.53.19:670][304]LogActorFactory: Actor Factory created SM_Throne_Exterior_Wall_Window_01
+[2019.06.28-14.53.20:636][411]LogActorFactory: Actor Factory created SM_Throne_Exterior_Wall_Window_01
+[2019.06.28-14.53.22:117][578]LogActorFactory: Actor Factory created SM_Throne_Exterior_Wall_Window_01
+[2019.06.28-14.53.24:258][828]Cmd: DELETE
+[2019.06.28-14.53.24:258][828]Cmd: ACTOR DELETE
+[2019.06.28-14.53.24:261][828]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.06.28-14.53.24:284][828]LogEditorActor: Deleted 1 Actors (0.026 secs)
+[2019.06.28-14.53.25:538][978]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.28-14.53.25:896][ 20]LogActorFactory: Actor Factory created SM_Throne_Exterior_Wall_Window_01
+[2019.06.28-14.53.26:686][114]LogActorFactory: Actor Factory created SM_Throne_Exterior_Wall_Window_01
+[2019.06.28-14.53.27:434][196]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.28-14.53.27:585][212]LogActorFactory: Actor Factory created SM_Throne_Exterior_Wall_Window_02
+[2019.06.28-14.53.28:476][312]LogActorFactory: Actor Factory created SM_Throne_Exterior_Wall_Window_02
+[2019.06.28-14.53.28:936][364]LogActorFactory: Actor Factory created SM_Throne_Exterior_Wall_Window_02
+[2019.06.28-14.53.30:560][549]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.28-14.53.30:776][573]LogActorFactory: Actor Factory created SM_Throne_Exterior_Wall_Window_03
+[2019.06.28-14.53.31:570][663]LogActorFactory: Actor Factory created SM_Throne_Exterior_Wall_Window_03
+[2019.06.28-14.53.33:115][839]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.28-14.53.33:401][871]LogActorFactory: Actor Factory created SM_Throne_Interior_Cieling_5
+[2019.06.28-14.53.35:740][140]LogActorFactory: Actor Factory created SM_Throne_Interior_Cieling_5
+[2019.06.28-14.53.45:685][313]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.28-14.53.46:212][374]LogActorFactory: Actor Factory created SM_Throne_Interior_Pillar_9
+[2019.06.28-14.53.46:947][456]LogActorFactory: Actor Factory created SM_Throne_Interior_Pillar_9
+[2019.06.28-14.53.47:758][545]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.28-14.53.48:106][585]LogActorFactory: Actor Factory created SM_Throne_Interior_Pillar_Damaged_02
+[2019.06.28-14.53.49:677][770]LogActorFactory: Actor Factory created SM_Throne_Interior_Pillar_Damaged_02
+[2019.06.28-14.53.50:382][847]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.28-14.53.52:020][ 40]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.28-14.53.52:260][ 67]LogActorFactory: Actor Factory created SM_Throne_Interior_Stairs_2
+[2019.06.28-14.53.53:379][196]LogActorFactory: Actor Factory created SM_Throne_Interior_Stairs_2
+[2019.06.28-14.53.58:317][773]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.28-14.53.58:521][795]LogActorFactory: Actor Factory created SM_Throne_Interior_Wall_02
+[2019.06.28-14.53.58:918][839]LogActorFactory: Actor Factory created SM_Throne_Interior_Wall_02
+[2019.06.28-14.53.59:793][936]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.28-14.54.00:139][975]LogActorFactory: Actor Factory created SM_Throne_Interior_Wall_03
+[2019.06.28-14.54.00:932][ 64]LogActorFactory: Actor Factory created SM_Throne_Interior_Wall_03
+[2019.06.28-14.54.01:915][173]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.28-14.54.02:178][202]LogActorFactory: Actor Factory created SM_Throne_Interior_Wall_BrokenPiece_01
+[2019.06.28-14.54.03:226][317]LogActorFactory: Actor Factory created SM_Throne_Interior_Wall_BrokenPiece_01
+[2019.06.28-14.54.04:109][414]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.28-14.54.04:275][432]LogActorFactory: Actor Factory created SM_Throne_Interior_Wall_BrokenPiece_03
+[2019.06.28-14.54.04:896][500]LogActorFactory: Actor Factory created SM_Throne_Interior_Wall_BrokenPiece_03
+[2019.06.28-14.54.05:595][576]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.28-14.54.05:825][601]LogActorFactory: Actor Factory created SM_Throne_Interior_Wall_BrokenPiece_04_HQ
+[2019.06.28-14.54.06:604][686]LogActorFactory: Actor Factory created SM_Throne_Interior_Wall_BrokenPiece_04_HQ
+[2019.06.28-14.54.07:257][756]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.28-14.54.07:399][771]LogActorFactory: Actor Factory created SM_Throne_Wall_01
+[2019.06.28-14.54.08:035][841]LogActorFactory: Actor Factory created SM_Throne_Wall_01
+[2019.06.28-14.54.10:893][172]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.28-14.54.11:302][219]LogActorFactory: Actor Factory created SM_Wall_BrokenPiece_03_HQ
+[2019.06.28-14.54.12:168][319]LogActorFactory: Actor Factory created SM_Wall_BrokenPiece_03_HQ
+[2019.06.28-14.54.19:589][184]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Throne_Interior_Wall_BrokenPiece_03)
+[2019.06.28-14.54.21:467][400]Cmd: DELETE
+[2019.06.28-14.54.21:467][400]Cmd: ACTOR DELETE
+[2019.06.28-14.54.21:470][400]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.06.28-14.54.21:493][400]LogEditorActor: Deleted 1 Actors (0.026 secs)
+[2019.06.28-14.54.21:829][440]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.28-14.54.22:323][498]LogAssetEditorManager: Opening Asset editor for StaticMesh /Game/Elemental/Environment/Throne_Interior_Structure/Mesh/SM_Throne_Interior_Wall_BrokenPiece_03.SM_Throne_Interior_Wall_BrokenPiece_03
+[2019.06.28-14.54.22:945][498]LogMaterial: Display: Missing cached shader map for material WireMaterial, compiling. 
+[2019.06.28-14.54.22:963][498]LogMaterial: Display: Missing cached shader map for material OverlayPointMaterial, compiling. 
+[2019.06.28-14.54.22:973][498]LogShaderCompilers: Display: Shaders left to compile 21
+[2019.06.28-14.54.22:973][498]LogShaderCompilers: Display: Shaders left to compile 11
+[2019.06.28-14.54.22:973][498]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.06.28-14.54.22:973][498]LogMaterial: Display: Missing cached shader map for material OverlayLineMaterial, compiling. 
+[2019.06.28-14.54.22:982][498]LogMaterial: Display: Missing cached shader map for material HoveredGeometryMaterial, compiling. 
+[2019.06.28-14.54.22:989][498]LogMaterial: Display: Missing cached shader map for material HoveredFaceMaterial, compiling. 
+[2019.06.28-14.54.23:017][498]LogShaderCompilers: Display: Shaders left to compile 69
+[2019.06.28-14.54.23:132][498]LogRenderer: Reallocating scene render targets to support 1432x924 Format 10 NumSamples 1 (Frame:1).
+[2019.06.28-14.54.23:132][498]LogSlate: Took 0.004742 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2019.06.28-14.54.23:557][527]LogShaderCompilers: Display: Shaders left to compile 59
+[2019.06.28-14.54.24:940][615]LogSlate: Window 'SM_Throne_Interior_Wall_BrokenPiece_03' being destroyed
+[2019.06.28-14.54.24:945][615]LogSlate: Window 'SM_Throne_Interior_Wall_BrokenPiece_03' being destroyed
+[2019.06.28-14.54.25:255][629]LogShaderCompilers: Display: Shaders left to compile 49
+[2019.06.28-14.54.25:349][636]LogShaderCompilers: Display: Shaders left to compile 39
+[2019.06.28-14.54.25:961][683]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.28-14.54.26:096][693]LogActorFactory: Actor Factory created SM_Throne_Interior_Wall_BrokenPiece_03
+[2019.06.28-14.54.26:462][729]LogActorFactory: Actor Factory created SM_Throne_Interior_Wall_BrokenPiece_03
+[2019.06.28-14.54.26:684][742]LogShaderCompilers: Display: Shaders left to compile 29
+[2019.06.28-14.54.26:694][743]LogShaderCompilers: Display: Shaders left to compile 19
+[2019.06.28-14.54.26:941][764]LogShaderCompilers: Display: Shaders left to compile 9
+[2019.06.28-14.54.27:116][779]Cmd: DELETE
+[2019.06.28-14.54.27:116][779]Cmd: ACTOR DELETE
+[2019.06.28-14.54.27:121][779]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.06.28-14.54.27:151][779]LogEditorActor: Deleted 1 Actors (0.036 secs)
+[2019.06.28-14.54.27:690][823]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.28-14.54.29:147][854]LogSlate: Window 'Delete Assets' being destroyed
+[2019.06.28-14.54.29:157][854]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.06.28-14.54.29:175][854]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.06.28-14.54.29:289][854]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.06.28-14.55.09:360][647]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.06.28-14.55.09:726][647]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SummerShorts" FILE="E:/test/ue4/SummerShorts/Saved/Autosaves/Game/SummerShorts_Auto2.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2019.06.28-14.55.09:873][647]LogSavePackage: Moving 'E:/test/ue4/SummerShorts/Saved/SummerShorts_Auto2E222663C4A046ED59A3165B3CF76418F.tmp' to 'E:/test/ue4/SummerShorts/Saved/Autosaves/Game/SummerShorts_Auto2.umap'
+[2019.06.28-14.55.09:876][647]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/SummerShorts' took 0.176
+[2019.06.28-14.55.09:876][647]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.176
+[2019.06.28-18.23.19:032][902]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Throne_Exterior_Wall_Window_2)
+[2019.06.28-18.23.25:313][642]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.28-18.23.27:092][739]LogSlate: Window 'Delete Assets' being destroyed
+[2019.06.28-18.23.27:102][739]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.06.28-18.23.31:814][825]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.28-18.23.33:118][862]LogSlate: Window 'Delete Assets' being destroyed
+[2019.06.28-18.23.33:128][862]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.06.28-18.23.34:231][951]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.28-18.23.35:353][984]LogSlate: Window 'Delete Assets' being destroyed
+[2019.06.28-18.23.35:363][984]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.06.28-18.23.40:216][516]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Throne_Interior_Wall_03)
+[2019.06.28-18.23.46:437][205]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.28-18.23.53:312][831]LogSlate: Window 'Delete Assets' being destroyed
+[2019.06.28-18.24.21:672][165]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.28-18.24.21:938][195]LogActorFactory: Actor Factory created sm_tree_1
+[2019.06.28-18.24.22:760][289]LogActorFactory: Actor Factory created sm_tree_1
+[2019.06.28-18.24.26:635][740]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.28-18.24.26:794][757]LogActorFactory: Actor Factory created SM_RockMesa_01
+[2019.06.28-18.24.28:283][929]LogActorFactory: Actor Factory created SM_RockMesa_01
+[2019.06.28-18.24.29:182][ 29]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.28-18.24.29:300][ 41]LogActorFactory: Actor Factory created SM_Rock_01
+[2019.06.28-18.24.30:481][176]LogActorFactory: Actor Factory created SM_Rock_01
+[2019.06.28-18.24.31:944][343]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.28-18.24.32:095][359]LogActorFactory: Actor Factory created SM_Jagged_Rock03
+[2019.06.28-18.24.33:067][468]LogActorFactory: Actor Factory created SM_Jagged_Rock03
+[2019.06.28-18.24.33:969][568]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.28-18.24.34:263][601]LogActorFactory: Actor Factory created SM_Jagged_Rock02
+[2019.06.28-18.24.35:011][685]LogActorFactory: Actor Factory created SM_Jagged_Rock02
+[2019.06.28-18.24.36:512][860]Cmd: DELETE
+[2019.06.28-18.24.36:512][860]Cmd: ACTOR DELETE
+[2019.06.28-18.24.36:516][860]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.06.28-18.24.36:539][860]LogEditorActor: Deleted 1 Actors (0.026 secs)
+[2019.06.28-18.24.37:700][997]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.28-18.24.37:918][ 22]LogActorFactory: Actor Factory created SM_CliffIce_01
+[2019.06.28-18.24.41:338][430]LogActorFactory: Actor Factory created SM_CliffIce_01
+[2019.06.28-18.24.53:149][836]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.06.28-18.25.01:400][762]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.28-18.25.25:862][591]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.28-18.25.26:046][610]LogActorFactory: Actor Factory created SM_Shear_Rock01
+[2019.06.28-18.25.26:541][666]LogActorFactory: Actor Factory created SM_Shear_Rock01
+[2019.06.28-18.25.38:623][103]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.28-18.25.38:825][125]LogActorFactory: Actor Factory created SM_Throne_Exterior_CoverBlo
+[2019.06.28-18.25.39:522][204]LogActorFactory: Actor Factory created SM_Throne_Exterior_CoverBlo
+[2019.06.28-18.25.40:512][315]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.28-18.25.40:669][332]LogActorFactory: Actor Factory created SM_Throne_Exterior_CoverB_3
+[2019.06.28-18.25.41:277][401]LogActorFactory: Actor Factory created SM_Throne_Exterior_CoverB_3
+[2019.06.28-18.25.42:612][552]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.28-18.25.42:824][575]LogActorFactory: Actor Factory created SM_Throne_Exterior_CoverB_2
+[2019.06.28-18.25.43:770][681]LogActorFactory: Actor Factory created SM_Throne_Exterior_CoverB_2
+[2019.06.28-18.25.57:807][353]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.28-18.25.58:030][377]LogActorFactory: Actor Factory created SM_Throne_Interior_Wall_02
+[2019.06.28-18.26.00:082][619]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.06.28-18.26.06:599][372]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.28-18.26.06:792][392]LogActorFactory: Actor Factory created SM_Throne_Interior_Pillar_Damaged_02
+[2019.06.28-18.26.07:440][464]LogActorFactory: Actor Factory created SM_Throne_Interior_Pillar_Damaged_02
+[2019.06.28-18.26.11:288][914]Cmd: DELETE
+[2019.06.28-18.26.11:288][914]Cmd: ACTOR DELETE
+[2019.06.28-18.26.11:292][914]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.06.28-18.26.11:315][914]LogEditorActor: Deleted 1 Actors (0.027 secs)
+[2019.06.28-18.27.02:323][ 24]LogEditorViewport: Clicking on Actor (context menu): Landscape (Landscape)
+[2019.06.28-18.27.02:363][ 24]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.06.28-18.27.03:452][139]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.06.28-18.27.03:452][139]PIE: New page: PIE session: SummerShorts (Jun 28, 2019, 10:27:03 AM)
+[2019.06.28-18.27.03:453][139]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_SummerShorts
+[2019.06.28-18.27.03:462][139]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009049s)
+[2019.06.28-18.27.03:463][139]LogAIModule: Creating AISystem for world SummerShorts
+[2019.06.28-18.27.03:463][139]LogPlayLevel: PIE: World Init took: (0.001305s)
+[2019.06.28-18.27.03:463][139]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SummerShorts.SummerShorts to /Game/UEDPIE_0_SummerShorts.SummerShorts (0.010504s)
+[2019.06.28-18.27.03:489][139]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.06.28-18.27.03:505][139]LogInit: FAudioDevice initialized.
+[2019.06.28-18.27.03:505][139]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.06.28-18.27.03:536][139]LogLoad: Game class is 'RollingGameMode_C'
+[2019.06.28-18.27.03:538][139]LogWorld: Bringing World /Game/UEDPIE_0_SummerShorts.SummerShorts up for play (max tick rate 0) at 2019.06.28-14.27.03
+[2019.06.28-18.27.03:539][139]LogWorld: Bringing up level for play took: 0.002035
+[2019.06.28-18.27.03:551][139]PIE: Play in editor start time for /Game/UEDPIE_0_SummerShorts 0.658
+[2019.06.28-18.28.23:473][720]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.28-18.28.23:503][720]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.06.28-18.28.23:529][720]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.28-18.28.23:574][724]LogPlayLevel: Display: Destroying online subsystem :Context_7
+[2019.06.28-18.28.40:653][772]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.28-18.28.55:708][551]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SummerShorts" FILE="E:/test/ue4/SummerShorts/Content/SummerShorts.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.06.28-18.28.55:954][551]LogSavePackage: Moving 'E:/test/ue4/SummerShorts/Saved/SummerShorts496AC58C4C29D17887FE46B7E7B705F9.tmp' to 'E:/test/ue4/SummerShorts/Content/SummerShorts.umap'
+[2019.06.28-18.28.55:983][551]LogFileHelpers: Saving map 'SummerShorts' took 0.390
+[2019.06.28-18.29.43:796][841]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_RockMesa_01)
+[2019.06.28-18.29.45:119][993]Cmd: DELETE
+[2019.06.28-18.29.45:119][993]Cmd: ACTOR DELETE
+[2019.06.28-18.29.45:124][993]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.06.28-18.29.45:147][993]LogEditorActor: Deleted 1 Actors (0.028 secs)
+[2019.06.28-18.29.45:659][ 54]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Throne_Interior_Wall_02)
+[2019.06.28-18.29.45:777][ 61]Cmd: DELETE
+[2019.06.28-18.29.45:777][ 61]Cmd: ACTOR DELETE
+[2019.06.28-18.29.45:781][ 61]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.06.28-18.29.45:803][ 61]LogEditorActor: Deleted 1 Actors (0.026 secs)
+[2019.06.28-18.29.46:076][ 93]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Throne_Interior_Cieling_5)
+[2019.06.28-18.29.46:176][ 99]Cmd: DELETE
+[2019.06.28-18.29.46:176][ 99]Cmd: ACTOR DELETE
+[2019.06.28-18.29.46:180][ 99]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.06.28-18.29.46:201][ 99]LogEditorActor: Deleted 1 Actors (0.025 secs)
+[2019.06.28-18.29.46:737][163]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Throne_Exterior_Wall_Window_03)
+[2019.06.28-18.29.46:856][171]Cmd: DELETE
+[2019.06.28-18.29.46:856][171]Cmd: ACTOR DELETE
+[2019.06.28-18.29.46:860][171]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.06.28-18.29.46:882][171]LogEditorActor: Deleted 1 Actors (0.025 secs)
+[2019.06.28-18.29.47:243][214]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Throne_Exterior_Wall_Broken_02)
+[2019.06.28-18.29.47:431][230]Cmd: DELETE
+[2019.06.28-18.29.47:432][230]Cmd: ACTOR DELETE
+[2019.06.28-18.29.47:435][230]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.06.28-18.29.47:456][230]LogEditorActor: Deleted 1 Actors (0.024 secs)
+[2019.06.28-18.29.48:532][358]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.28-18.29.50:807][631]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_CliffIce_01)
+[2019.06.28-18.29.50:972][644]Cmd: DELETE
+[2019.06.28-18.29.50:972][644]Cmd: ACTOR DELETE
+[2019.06.28-18.29.50:976][644]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.06.28-18.29.50:997][644]LogEditorActor: Deleted 1 Actors (0.025 secs)
+[2019.06.28-18.29.51:320][682]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Throne_Exterior_Wall_Broken_01)
+[2019.06.28-18.29.51:493][696]Cmd: DELETE
+[2019.06.28-18.29.51:493][696]Cmd: ACTOR DELETE
+[2019.06.28-18.29.51:496][696]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.06.28-18.29.51:519][696]LogEditorActor: Deleted 1 Actors (0.026 secs)
+[2019.06.28-18.29.51:775][726]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (sm_tree_1)
+[2019.06.28-18.29.52:013][748]Cmd: DELETE
+[2019.06.28-18.29.52:013][748]Cmd: ACTOR DELETE
+[2019.06.28-18.29.52:016][748]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.06.28-18.29.52:038][748]LogEditorActor: Deleted 1 Actors (0.026 secs)
+[2019.06.28-18.29.52:669][823]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Throne_Exterior_Wall_DoorBlocker_01)
+[2019.06.28-18.29.52:776][829]Cmd: DELETE
+[2019.06.28-18.29.52:776][829]Cmd: ACTOR DELETE
+[2019.06.28-18.29.52:780][829]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.06.28-18.29.52:801][829]LogEditorActor: Deleted 1 Actors (0.024 secs)
+[2019.06.28-18.29.53:140][869]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Throne_Exterior_Wall_02)
+[2019.06.28-18.29.53:257][877]Cmd: DELETE
+[2019.06.28-18.29.53:257][877]Cmd: ACTOR DELETE
+[2019.06.28-18.29.53:260][877]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.06.28-18.29.53:281][877]LogEditorActor: Deleted 1 Actors (0.025 secs)
+[2019.06.28-18.29.53:762][934]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Throne_Exterior_Wall_Curved_01)
+[2019.06.28-18.29.53:940][949]Cmd: DELETE
+[2019.06.28-18.29.53:940][949]Cmd: ACTOR DELETE
+[2019.06.28-18.29.53:944][949]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.06.28-18.29.53:967][949]LogEditorActor: Deleted 1 Actors (0.027 secs)
+[2019.06.28-18.29.54:358][995]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Throne_Exterior_Wall_Broken_03_LOW)
+[2019.06.28-18.29.54:544][ 11]Cmd: DELETE
+[2019.06.28-18.29.54:544][ 11]Cmd: ACTOR DELETE
+[2019.06.28-18.29.54:548][ 11]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.06.28-18.29.54:570][ 11]LogEditorActor: Deleted 1 Actors (0.025 secs)
+[2019.06.28-18.29.55:067][ 70]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Throne_Exterior_DoorArch)
+[2019.06.28-18.29.55:458][111]Cmd: DELETE
+[2019.06.28-18.29.55:458][111]Cmd: ACTOR DELETE
+[2019.06.28-18.29.55:461][111]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.06.28-18.29.55:482][111]LogEditorActor: Deleted 1 Actors (0.023 secs)
+[2019.06.28-18.29.55:929][164]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Throne_Exterior_Wall_Window_02)
+[2019.06.28-18.29.56:049][172]Cmd: DELETE
+[2019.06.28-18.29.56:049][172]Cmd: ACTOR DELETE
+[2019.06.28-18.29.56:052][172]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.06.28-18.29.56:074][172]LogEditorActor: Deleted 1 Actors (0.025 secs)
+[2019.06.28-18.29.56:630][238]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Throne_Wall_01)
+[2019.06.28-18.29.56:749][246]Cmd: DELETE
+[2019.06.28-18.29.56:749][246]Cmd: ACTOR DELETE
+[2019.06.28-18.29.56:752][246]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.06.28-18.29.56:775][246]LogEditorActor: Deleted 1 Actors (0.026 secs)
+[2019.06.28-18.29.57:710][358]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Throne_Interior_Wall_BrokenPiece_01)
+[2019.06.28-18.29.57:812][364]Cmd: DELETE
+[2019.06.28-18.29.57:812][364]Cmd: ACTOR DELETE
+[2019.06.28-18.29.57:816][364]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.06.28-18.29.57:839][364]LogEditorActor: Deleted 1 Actors (0.027 secs)
+[2019.06.28-18.29.58:383][429]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Throne_Interior_Wall_BrokenPiece_04_HQ)
+[2019.06.28-18.29.58:507][438]Cmd: DELETE
+[2019.06.28-18.29.58:508][438]Cmd: ACTOR DELETE
+[2019.06.28-18.29.58:511][438]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.06.28-18.29.58:534][438]LogEditorActor: Deleted 1 Actors (0.026 secs)
+[2019.06.28-18.29.59:140][510]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Shear_Rock01)
+[2019.06.28-18.29.59:252][517]Cmd: DELETE
+[2019.06.28-18.29.59:252][517]Cmd: ACTOR DELETE
+[2019.06.28-18.29.59:255][517]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.06.28-18.29.59:278][517]LogEditorActor: Deleted 1 Actors (0.026 secs)
+[2019.06.28-18.29.59:922][594]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Throne_Exterior_CoverB_3)
+[2019.06.28-18.30.00:042][602]Cmd: DELETE
+[2019.06.28-18.30.00:042][602]Cmd: ACTOR DELETE
+[2019.06.28-18.30.00:045][602]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.06.28-18.30.00:068][602]LogEditorActor: Deleted 1 Actors (0.026 secs)
+[2019.06.28-18.30.00:720][680]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Throne_Exterior_CoverBlo)
+[2019.06.28-18.30.00:845][689]Cmd: DELETE
+[2019.06.28-18.30.00:845][689]Cmd: ACTOR DELETE
+[2019.06.28-18.30.00:848][689]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.06.28-18.30.00:870][689]LogEditorActor: Deleted 1 Actors (0.025 secs)
+[2019.06.28-18.30.01:334][744]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Throne_Exterior_CoverB_2)
+[2019.06.28-18.30.01:461][753]Cmd: DELETE
+[2019.06.28-18.30.01:461][753]Cmd: ACTOR DELETE
+[2019.06.28-18.30.01:464][753]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.06.28-18.30.01:486][753]LogEditorActor: Deleted 1 Actors (0.025 secs)
+[2019.06.28-18.30.02:525][877]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Throne_Interior_Stairs_2)
+[2019.06.28-18.30.02:635][884]Cmd: DELETE
+[2019.06.28-18.30.02:635][884]Cmd: ACTOR DELETE
+[2019.06.28-18.30.02:638][884]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.06.28-18.30.02:660][884]LogEditorActor: Deleted 1 Actors (0.025 secs)
+[2019.06.28-18.30.03:303][961]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Wall_BrokenPiece_03_HQ)
+[2019.06.28-18.30.03:403][967]Cmd: DELETE
+[2019.06.28-18.30.03:403][967]Cmd: ACTOR DELETE
+[2019.06.28-18.30.03:406][967]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.06.28-18.30.03:428][967]LogEditorActor: Deleted 1 Actors (0.025 secs)
+[2019.06.28-18.30.04:581][105]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Jagged_Rock03)
+[2019.06.28-18.30.04:680][111]Cmd: DELETE
+[2019.06.28-18.30.04:680][111]Cmd: ACTOR DELETE
+[2019.06.28-18.30.04:683][111]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.06.28-18.30.04:707][111]LogEditorActor: Deleted 1 Actors (0.027 secs)
+[2019.06.28-18.30.05:401][194]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Rock_01)
+[2019.06.28-18.30.05:683][222]Cmd: DELETE
+[2019.06.28-18.30.05:683][222]Cmd: ACTOR DELETE
+[2019.06.28-18.30.05:686][222]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.06.28-18.30.05:706][222]LogEditorActor: Deleted 1 Actors (0.023 secs)
+[2019.06.28-18.30.06:162][276]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Throne_Interior_Pillar_9)
+[2019.06.28-18.30.06:318][289]Cmd: DELETE
+[2019.06.28-18.30.06:319][289]Cmd: ACTOR DELETE
+[2019.06.28-18.30.06:322][289]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.06.28-18.30.06:344][289]LogEditorActor: Deleted 1 Actors (0.026 secs)
+[2019.06.28-18.30.07:255][398]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Throne_Interior_Pillar_Damaged_02)
+[2019.06.28-18.30.07:395][409]Cmd: DELETE
+[2019.06.28-18.30.07:395][409]Cmd: ACTOR DELETE
+[2019.06.28-18.30.07:399][409]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.06.28-18.30.07:420][409]LogEditorActor: Deleted 1 Actors (0.025 secs)
+[2019.06.28-18.30.18:888][775]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.06.28-18.30.19:977][902]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.06.28-18.30.20:092][902]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SummerShorts" FILE="E:/test/ue4/SummerShorts/Content/SummerShorts.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.06.28-18.30.20:242][902]LogSavePackage: Moving 'E:/test/ue4/SummerShorts/Saved/SummerShorts3683D58A4A0EE7227209469D4F1C0E87.tmp' to 'E:/test/ue4/SummerShorts/Content/SummerShorts.umap'
+[2019.06.28-18.30.20:270][902]LogFileHelpers: Saving map 'SummerShorts' took 0.290
+[2019.06.28-18.30.20:291][902]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/SM_Wall_BrokenPiece_03_HQ" FILE="E:/test/ue4/SummerShorts/Content/Assets/SM_Wall_BrokenPiece_03_HQ.uasset" SILENT=true
+[2019.06.28-18.30.20:313][902]LogSavePackage: Moving 'E:/test/ue4/SummerShorts/Saved/SM_Wall_BrokenPiece_03_HQ92D29FAC40F71DA3CB84059905D63BC6.tmp' to 'E:/test/ue4/SummerShorts/Content/Assets/SM_Wall_BrokenPiece_03_HQ.uasset'
+[2019.06.28-18.30.20:336][902]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/SM_Jagged_Rock02" FILE="E:/test/ue4/SummerShorts/Content/Assets/SM_Jagged_Rock02.uasset" SILENT=true
+[2019.06.28-18.30.20:367][902]LogSavePackage: Moving 'E:/test/ue4/SummerShorts/Saved/SM_Jagged_Rock02E872BB12471AC10D220CDF89C358401B.tmp' to 'E:/test/ue4/SummerShorts/Content/Assets/SM_Jagged_Rock02.uasset'
+[2019.06.28-18.30.20:390][902]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/SM_Jagged_Rock03" FILE="E:/test/ue4/SummerShorts/Content/Assets/SM_Jagged_Rock03.uasset" SILENT=true
+[2019.06.28-18.30.20:415][902]LogSavePackage: Moving 'E:/test/ue4/SummerShorts/Saved/SM_Jagged_Rock03FD2BD00D4CF44892E64BC89D69FC55E9.tmp' to 'E:/test/ue4/SummerShorts/Content/Assets/SM_Jagged_Rock03.uasset'
+[2019.06.28-18.30.20:442][902]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/SM_CliffIce_01" FILE="E:/test/ue4/SummerShorts/Content/Assets/SM_CliffIce_01.uasset" SILENT=true
+[2019.06.28-18.30.20:596][902]LogSavePackage: Moving 'E:/test/ue4/SummerShorts/Saved/SM_CliffIce_019689364E4533678AD7B17F99ADD2D13B.tmp' to 'E:/test/ue4/SummerShorts/Content/Assets/SM_CliffIce_01.uasset'
+[2019.06.28-18.30.20:621][902]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/SM_Rock_01" FILE="E:/test/ue4/SummerShorts/Content/Assets/SM_Rock_01.uasset" SILENT=true
+[2019.06.28-18.30.20:639][902]LogSavePackage: Moving 'E:/test/ue4/SummerShorts/Saved/SM_Rock_017B13BA5B44E2E2C524254A895DB00EF2.tmp' to 'E:/test/ue4/SummerShorts/Content/Assets/SM_Rock_01.uasset'
+[2019.06.28-18.30.20:663][902]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/SM_RockMesa_01" FILE="E:/test/ue4/SummerShorts/Content/Assets/SM_RockMesa_01.uasset" SILENT=true
+[2019.06.28-18.30.20:695][902]LogSavePackage: Moving 'E:/test/ue4/SummerShorts/Saved/SM_RockMesa_01246160EA4DD9EA5C32D5C390DD06A0B4.tmp' to 'E:/test/ue4/SummerShorts/Content/Assets/SM_RockMesa_01.uasset'
+[2019.06.28-18.30.20:718][902]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/SM_Shear_Rock01" FILE="E:/test/ue4/SummerShorts/Content/Assets/SM_Shear_Rock01.uasset" SILENT=true
+[2019.06.28-18.30.20:736][902]LogSavePackage: Moving 'E:/test/ue4/SummerShorts/Saved/SM_Shear_Rock01441C37C540017A38E16824B2BD91DC8D.tmp' to 'E:/test/ue4/SummerShorts/Content/Assets/SM_Shear_Rock01.uasset'
+[2019.06.28-18.30.20:760][902]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/SM_Throne_Exterior_CoverB_2" FILE="E:/test/ue4/SummerShorts/Content/Assets/SM_Throne_Exterior_CoverB_2.uasset" SILENT=true
+[2019.06.28-18.30.20:778][902]LogSavePackage: Moving 'E:/test/ue4/SummerShorts/Saved/SM_Throne_Exterior_CoverB_2CBC73D204995321D72033DBBDB7E563B.tmp' to 'E:/test/ue4/SummerShorts/Content/Assets/SM_Throne_Exterior_CoverB_2.uasset'
+[2019.06.28-18.30.20:805][902]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/SM_Throne_Exterior_CoverB_3" FILE="E:/test/ue4/SummerShorts/Content/Assets/SM_Throne_Exterior_CoverB_3.uasset" SILENT=true
+[2019.06.28-18.30.20:823][902]LogSavePackage: Moving 'E:/test/ue4/SummerShorts/Saved/SM_Throne_Exterior_CoverB_363D654144B25F9F5C4F17BA3773854E6.tmp' to 'E:/test/ue4/SummerShorts/Content/Assets/SM_Throne_Exterior_CoverB_3.uasset'
+[2019.06.28-18.30.20:846][902]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/SM_Throne_Exterior_CoverBlo" FILE="E:/test/ue4/SummerShorts/Content/Assets/SM_Throne_Exterior_CoverBlo.uasset" SILENT=true
+[2019.06.28-18.30.20:869][902]LogSavePackage: Moving 'E:/test/ue4/SummerShorts/Saved/SM_Throne_Exterior_CoverBloD63225414EA9FBDDE831D381233DB409.tmp' to 'E:/test/ue4/SummerShorts/Content/Assets/SM_Throne_Exterior_CoverBlo.uasset'
+[2019.06.28-18.30.20:893][902]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/SM_Throne_Exterior_DoorArch" FILE="E:/test/ue4/SummerShorts/Content/Assets/SM_Throne_Exterior_DoorArch.uasset" SILENT=true
+[2019.06.28-18.30.20:916][902]LogSavePackage: Moving 'E:/test/ue4/SummerShorts/Saved/SM_Throne_Exterior_DoorArch98233BB74BBEE0D313B3C5BCF8D764B6.tmp' to 'E:/test/ue4/SummerShorts/Content/Assets/SM_Throne_Exterior_DoorArch.uasset'
+[2019.06.28-18.30.20:940][902]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/SM_Throne_Exterior_Wall_02" FILE="E:/test/ue4/SummerShorts/Content/Assets/SM_Throne_Exterior_Wall_02.uasset" SILENT=true
+[2019.06.28-18.30.20:958][902]LogSavePackage: Moving 'E:/test/ue4/SummerShorts/Saved/SM_Throne_Exterior_Wall_021C42558D4C5788CBAA04B8AA36F32B32.tmp' to 'E:/test/ue4/SummerShorts/Content/Assets/SM_Throne_Exterior_Wall_02.uasset'
+[2019.06.28-18.30.20:981][902]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/SM_Throne_Exterior_Wall_Broken_01" FILE="E:/test/ue4/SummerShorts/Content/Assets/SM_Throne_Exterior_Wall_Broken_01.uasset" SILENT=true
+[2019.06.28-18.30.21:009][902]LogSavePackage: Moving 'E:/test/ue4/SummerShorts/Saved/SM_Throne_Exterior_Wall_Broken_067FBAE7E45D4A77DD2D1BC93E2FCC14A.tmp' to 'E:/test/ue4/SummerShorts/Content/Assets/SM_Throne_Exterior_Wall_Broken_01.uasset'
+[2019.06.28-18.30.21:037][902]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/SM_Throne_Exterior_Wall_Broken_02" FILE="E:/test/ue4/SummerShorts/Content/Assets/SM_Throne_Exterior_Wall_Broken_02.uasset" SILENT=true
+[2019.06.28-18.30.21:057][902]LogSavePackage: Moving 'E:/test/ue4/SummerShorts/Saved/SM_Throne_Exterior_Wall_Broken_07369E658490F79F702B3F58802408036.tmp' to 'E:/test/ue4/SummerShorts/Content/Assets/SM_Throne_Exterior_Wall_Broken_02.uasset'
+[2019.06.28-18.30.21:080][902]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/SM_Throne_Exterior_Wall_Broken_03_LOW" FILE="E:/test/ue4/SummerShorts/Content/Assets/SM_Throne_Exterior_Wall_Broken_03_LOW.uasset" SILENT=true
+[2019.06.28-18.30.21:102][902]LogSavePackage: Moving 'E:/test/ue4/SummerShorts/Saved/SM_Throne_Exterior_Wall_Broken_01A9B304743DAD5FC37FE31AB3F15BD0D.tmp' to 'E:/test/ue4/SummerShorts/Content/Assets/SM_Throne_Exterior_Wall_Broken_03_LOW.uasset'
+[2019.06.28-18.30.21:125][902]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/SM_Throne_Exterior_Wall_Curved_01" FILE="E:/test/ue4/SummerShorts/Content/Assets/SM_Throne_Exterior_Wall_Curved_01.uasset" SILENT=true
+[2019.06.28-18.30.21:145][902]LogSavePackage: Moving 'E:/test/ue4/SummerShorts/Saved/SM_Throne_Exterior_Wall_Curved_0E22BE1BD4B14A2A108A90E8ED141EA51.tmp' to 'E:/test/ue4/SummerShorts/Content/Assets/SM_Throne_Exterior_Wall_Curved_01.uasset'
+[2019.06.28-18.30.21:169][902]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/SM_Throne_Exterior_Wall_DoorBlocker_01" FILE="E:/test/ue4/SummerShorts/Content/Assets/SM_Throne_Exterior_Wall_DoorBlocker_01.uasset" SILENT=true
+[2019.06.28-18.30.21:193][902]LogSavePackage: Moving 'E:/test/ue4/SummerShorts/Saved/SM_Throne_Exterior_Wall_DoorBloc4D4FBC544F8977C16124CD951B31D047.tmp' to 'E:/test/ue4/SummerShorts/Content/Assets/SM_Throne_Exterior_Wall_DoorBlocker_01.uasset'
+[2019.06.28-18.30.21:216][902]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/SM_Throne_Exterior_Wall_Window_02" FILE="E:/test/ue4/SummerShorts/Content/Assets/SM_Throne_Exterior_Wall_Window_02.uasset" SILENT=true
+[2019.06.28-18.30.21:235][902]LogSavePackage: Moving 'E:/test/ue4/SummerShorts/Saved/SM_Throne_Exterior_Wall_Window_0F0E3DDF84B4239B1EBCFA0889AE6D630.tmp' to 'E:/test/ue4/SummerShorts/Content/Assets/SM_Throne_Exterior_Wall_Window_02.uasset'
+[2019.06.28-18.30.21:259][902]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/SM_Throne_Exterior_Wall_Window_03" FILE="E:/test/ue4/SummerShorts/Content/Assets/SM_Throne_Exterior_Wall_Window_03.uasset" SILENT=true
+[2019.06.28-18.30.21:281][902]LogSavePackage: Moving 'E:/test/ue4/SummerShorts/Saved/SM_Throne_Exterior_Wall_Window_0FEB45EB247FA63884C135798A92199E4.tmp' to 'E:/test/ue4/SummerShorts/Content/Assets/SM_Throne_Exterior_Wall_Window_03.uasset'
+[2019.06.28-18.30.21:305][902]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/SM_Throne_Exterior_WallTrim_01" FILE="E:/test/ue4/SummerShorts/Content/Assets/SM_Throne_Exterior_WallTrim_01.uasset" SILENT=true
+[2019.06.28-18.30.21:323][902]LogSavePackage: Moving 'E:/test/ue4/SummerShorts/Saved/SM_Throne_Exterior_WallTrim_01D43699D041B89E1D0BDD6F97BD8117A1.tmp' to 'E:/test/ue4/SummerShorts/Content/Assets/SM_Throne_Exterior_WallTrim_01.uasset'
+[2019.06.28-18.30.21:346][902]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/SM_Throne_Exterior_WallTrim_02" FILE="E:/test/ue4/SummerShorts/Content/Assets/SM_Throne_Exterior_WallTrim_02.uasset" SILENT=true
+[2019.06.28-18.30.21:364][902]LogSavePackage: Moving 'E:/test/ue4/SummerShorts/Saved/SM_Throne_Exterior_WallTrim_02313D726F4D014E35AABC81A63E25162B.tmp' to 'E:/test/ue4/SummerShorts/Content/Assets/SM_Throne_Exterior_WallTrim_02.uasset'
+[2019.06.28-18.30.21:388][902]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/SM_Throne_Exterior_WallTrim_Curved" FILE="E:/test/ue4/SummerShorts/Content/Assets/SM_Throne_Exterior_WallTrim_Curved.uasset" SILENT=true
+[2019.06.28-18.30.21:410][902]LogSavePackage: Moving 'E:/test/ue4/SummerShorts/Saved/SM_Throne_Exterior_WallTrim_Curv7C7561C44DC70A5EE92410A4AB0B00E1.tmp' to 'E:/test/ue4/SummerShorts/Content/Assets/SM_Throne_Exterior_WallTrim_Curved.uasset'
+[2019.06.28-18.30.21:434][902]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/SM_Throne_Interior_Cieling_5" FILE="E:/test/ue4/SummerShorts/Content/Assets/SM_Throne_Interior_Cieling_5.uasset" SILENT=true
+[2019.06.28-18.30.21:456][902]LogSavePackage: Moving 'E:/test/ue4/SummerShorts/Saved/SM_Throne_Interior_Cieling_563F4766246F4F9C42C64D5AB015C5E7E.tmp' to 'E:/test/ue4/SummerShorts/Content/Assets/SM_Throne_Interior_Cieling_5.uasset'
+[2019.06.28-18.30.21:482][902]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/SM_Throne_Interior_Pillar_9" FILE="E:/test/ue4/SummerShorts/Content/Assets/SM_Throne_Interior_Pillar_9.uasset" SILENT=true
+[2019.06.28-18.30.21:500][902]LogSavePackage: Moving 'E:/test/ue4/SummerShorts/Saved/SM_Throne_Interior_Pillar_91A0C2CFC4D3120B685A0B68F0E601892.tmp' to 'E:/test/ue4/SummerShorts/Content/Assets/SM_Throne_Interior_Pillar_9.uasset'
+[2019.06.28-18.30.21:523][902]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/SM_Throne_Interior_Pillar_Damaged_02" FILE="E:/test/ue4/SummerShorts/Content/Assets/SM_Throne_Interior_Pillar_Damaged_02.uasset" SILENT=true
+[2019.06.28-18.30.21:541][902]LogSavePackage: Moving 'E:/test/ue4/SummerShorts/Saved/SM_Throne_Interior_Pillar_DamageDB85B6FA42B8F25A6BB0889D3872D469.tmp' to 'E:/test/ue4/SummerShorts/Content/Assets/SM_Throne_Interior_Pillar_Damaged_02.uasset'
+[2019.06.28-18.30.21:564][902]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/SM_Throne_Interior_Stairs_2" FILE="E:/test/ue4/SummerShorts/Content/Assets/SM_Throne_Interior_Stairs_2.uasset" SILENT=true
+[2019.06.28-18.30.21:596][902]LogSavePackage: Moving 'E:/test/ue4/SummerShorts/Saved/SM_Throne_Interior_Stairs_2A4CADD654AC1D2EB5E72A6A0825315A4.tmp' to 'E:/test/ue4/SummerShorts/Content/Assets/SM_Throne_Interior_Stairs_2.uasset'
+[2019.06.28-18.30.21:619][902]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/SM_Throne_Interior_Wall_02" FILE="E:/test/ue4/SummerShorts/Content/Assets/SM_Throne_Interior_Wall_02.uasset" SILENT=true
+[2019.06.28-18.30.21:642][902]LogSavePackage: Moving 'E:/test/ue4/SummerShorts/Saved/SM_Throne_Interior_Wall_020F0DAE084E1A053FB17E0EBC79C2506E.tmp' to 'E:/test/ue4/SummerShorts/Content/Assets/SM_Throne_Interior_Wall_02.uasset'
+[2019.06.28-18.30.21:666][902]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/SM_Throne_Interior_Wall_BrokenPiece_01" FILE="E:/test/ue4/SummerShorts/Content/Assets/SM_Throne_Interior_Wall_BrokenPiece_01.uasset" SILENT=true
+[2019.06.28-18.30.21:699][902]LogSavePackage: Moving 'E:/test/ue4/SummerShorts/Saved/SM_Throne_Interior_Wall_BrokenPi9356685D436FBF2346EA879D088837AE.tmp' to 'E:/test/ue4/SummerShorts/Content/Assets/SM_Throne_Interior_Wall_BrokenPiece_01.uasset'
+[2019.06.28-18.30.21:725][902]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/SM_Throne_Interior_Wall_BrokenPiece_04_HQ" FILE="E:/test/ue4/SummerShorts/Content/Assets/SM_Throne_Interior_Wall_BrokenPiece_04_HQ.uasset" SILENT=true
+[2019.06.28-18.30.21:745][902]LogSavePackage: Moving 'E:/test/ue4/SummerShorts/Saved/SM_Throne_Interior_Wall_BrokenPi198E321B48267F0CE00CE0BEE040A818.tmp' to 'E:/test/ue4/SummerShorts/Content/Assets/SM_Throne_Interior_Wall_BrokenPiece_04_HQ.uasset'
+[2019.06.28-18.30.21:768][902]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/SM_Throne_Wall_01" FILE="E:/test/ue4/SummerShorts/Content/Assets/SM_Throne_Wall_01.uasset" SILENT=true
+[2019.06.28-18.30.21:786][902]LogSavePackage: Moving 'E:/test/ue4/SummerShorts/Saved/SM_Throne_Wall_01642E4D594A2C0956295FA9A3E9F609C3.tmp' to 'E:/test/ue4/SummerShorts/Content/Assets/SM_Throne_Wall_01.uasset'
+[2019.06.28-18.30.21:809][902]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/SM_Torch_03" FILE="E:/test/ue4/SummerShorts/Content/Assets/SM_Torch_03.uasset" SILENT=true
+[2019.06.28-18.30.21:828][902]LogSavePackage: Moving 'E:/test/ue4/SummerShorts/Saved/SM_Torch_03CB85BD854EFE5FC4512761A0DE5291B7.tmp' to 'E:/test/ue4/SummerShorts/Content/Assets/SM_Torch_03.uasset'
+[2019.06.28-18.30.21:852][902]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/sm_tree_1" FILE="E:/test/ue4/SummerShorts/Content/Assets/sm_tree_1.uasset" SILENT=true
+[2019.06.28-18.30.21:871][902]LogSavePackage: Moving 'E:/test/ue4/SummerShorts/Saved/sm_tree_1A7023ECA4F8E80CACF4F3CA7EE9333EF.tmp' to 'E:/test/ue4/SummerShorts/Content/Assets/sm_tree_1.uasset'
+[2019.06.28-18.30.23:912][142]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.28-18.30.43:733][489]LogTexture: Display: Building textures: Texture2D_2 (G8, 128X128)
+[2019.06.28-18.31.14:253][138]LogActorFactory: Actor Factory created SM_PillarFrame300
+[2019.06.28-18.31.14:916][217]LogActorFactory: Actor Factory created SM_PillarFrame300
+[2019.06.28-18.31.16:348][388]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.28-18.31.18:279][618]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_PillarFrame300)
+[2019.06.28-18.31.19:093][710]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.06.28-18.31.23:254][208]Cmd: DELETE
+[2019.06.28-18.31.23:254][208]Cmd: ACTOR DELETE
+[2019.06.28-18.31.23:257][208]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.06.28-18.31.23:283][208]LogEditorActor: Deleted 1 Actors (0.028 secs)
+[2019.06.28-18.31.24:928][405]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.28-18.31.57:618][227]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SummerShorts" FILE="E:/test/ue4/SummerShorts/Content/SummerShorts.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.06.28-18.31.57:759][227]LogSavePackage: Moving 'E:/test/ue4/SummerShorts/Saved/SummerShortsF9DDD9AD4753A1ADB8A14A8ECF6B9623.tmp' to 'E:/test/ue4/SummerShorts/Content/SummerShorts.umap'
+[2019.06.28-18.31.57:782][227]LogFileHelpers: Saving map 'SummerShorts' took 0.286
+[2019.06.28-18.31.57:803][227]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/SM_Rock" FILE="E:/test/ue4/SummerShorts/Content/Assets/SM_Rock.uasset" SILENT=true
+[2019.06.28-18.31.57:823][227]LogSavePackage: Moving 'E:/test/ue4/SummerShorts/Saved/SM_Rock44CC5A1E4A25C3842D55E98CC5AAD174.tmp' to 'E:/test/ue4/SummerShorts/Content/Assets/SM_Rock.uasset'
+[2019.06.28-18.31.57:846][227]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/SM_Bush" FILE="E:/test/ue4/SummerShorts/Content/Assets/SM_Bush.uasset" SILENT=true
+[2019.06.28-18.31.57:867][227]LogSavePackage: Moving 'E:/test/ue4/SummerShorts/Saved/SM_Bush4BFB3A08407CA8483EE353973B63CB50.tmp' to 'E:/test/ue4/SummerShorts/Content/Assets/SM_Bush.uasset'
+[2019.06.28-18.35.31:956][718]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SummerShortsProps/sm_tree_1" FILE="E:/test/ue4/SummerShorts/Content/SummerShortsProps/sm_tree_1.uasset" SILENT=true
+[2019.06.28-18.35.31:976][718]LogSavePackage: Moving 'E:/test/ue4/SummerShorts/Saved/sm_tree_1B93DB2EC469B3A48E4002DAACCD726EE.tmp' to 'E:/test/ue4/SummerShorts/Content/SummerShortsProps/sm_tree_1.uasset'
+[2019.06.28-18.35.32:008][718]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SummerShortsProps/SM_Torch_03" FILE="E:/test/ue4/SummerShorts/Content/SummerShortsProps/SM_Torch_03.uasset" SILENT=true
+[2019.06.28-18.35.32:026][718]LogSavePackage: Moving 'E:/test/ue4/SummerShorts/Saved/SM_Torch_03FFB5E9B640D6944C3B41B9928AB5A307.tmp' to 'E:/test/ue4/SummerShorts/Content/SummerShortsProps/SM_Torch_03.uasset'
+[2019.06.28-18.35.32:049][718]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SummerShortsProps/SM_Throne_Wall_01" FILE="E:/test/ue4/SummerShorts/Content/SummerShortsProps/SM_Throne_Wall_01.uasset" SILENT=true
+[2019.06.28-18.35.32:072][718]LogSavePackage: Moving 'E:/test/ue4/SummerShorts/Saved/SM_Throne_Wall_0194D8341B428D1725613C28AEE2B83FF5.tmp' to 'E:/test/ue4/SummerShorts/Content/SummerShortsProps/SM_Throne_Wall_01.uasset'
+[2019.06.28-18.35.32:114][718]LogSavePackage: Moving 'E:/test/ue4/SummerShorts/Saved/SM_Throne_Interior_Wall_BrokenPiA069FD7848E918908F13189C8B6EA0DB.tmp' to 'E:/test/ue4/SummerShorts/Content/SummerShortsProps/SM_Throne_Interior_Wall_BrokenPiece_04_HQ.uasset'
+[2019.06.28-18.35.32:156][718]LogSavePackage: Moving 'E:/test/ue4/SummerShorts/Saved/SM_Throne_Interior_Wall_BrokenPiE87C656B49CC4DBBB9BECAB82BF73642.tmp' to 'E:/test/ue4/SummerShorts/Content/SummerShortsProps/SM_Throne_Interior_Wall_BrokenPiece_01.uasset'
+[2019.06.28-18.35.32:180][718]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SummerShortsProps/SM_Throne_Interior_Wall_02" FILE="E:/test/ue4/SummerShorts/Content/SummerShortsProps/SM_Throne_Interior_Wall_02.uasset" SILENT=true
+[2019.06.28-18.35.32:201][718]LogSavePackage: Moving 'E:/test/ue4/SummerShorts/Saved/SM_Throne_Interior_Wall_02888DC61648FDD702786E7F9C40841956.tmp' to 'E:/test/ue4/SummerShorts/Content/SummerShortsProps/SM_Throne_Interior_Wall_02.uasset'
+[2019.06.28-18.35.32:224][718]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SummerShortsProps/SM_Throne_Interior_Stairs_2" FILE="E:/test/ue4/SummerShorts/Content/SummerShortsProps/SM_Throne_Interior_Stairs_2.uasset" SILENT=true
+[2019.06.28-18.35.32:247][718]LogSavePackage: Moving 'E:/test/ue4/SummerShorts/Saved/SM_Throne_Interior_Stairs_227540B5B485E7CF4A407EB8CC27A0E00.tmp' to 'E:/test/ue4/SummerShorts/Content/SummerShortsProps/SM_Throne_Interior_Stairs_2.uasset'
+[2019.06.28-18.35.32:298][718]LogSavePackage: Moving 'E:/test/ue4/SummerShorts/Saved/SM_Throne_Interior_Pillar_Damage06881ECB441BF1D147879CB09BD86AD8.tmp' to 'E:/test/ue4/SummerShorts/Content/SummerShortsProps/SM_Throne_Interior_Pillar_Damaged_02.uasset'
+[2019.06.28-18.35.32:323][718]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SummerShortsProps/SM_Throne_Interior_Pillar_9" FILE="E:/test/ue4/SummerShorts/Content/SummerShortsProps/SM_Throne_Interior_Pillar_9.uasset" SILENT=true
+[2019.06.28-18.35.32:340][718]LogSavePackage: Moving 'E:/test/ue4/SummerShorts/Saved/SM_Throne_Interior_Pillar_9B6A3EEB54382709739E69FA78868D67A.tmp' to 'E:/test/ue4/SummerShorts/Content/SummerShortsProps/SM_Throne_Interior_Pillar_9.uasset'
+[2019.06.28-18.35.32:364][718]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SummerShortsProps/SM_Throne_Interior_Cieling_5" FILE="E:/test/ue4/SummerShorts/Content/SummerShortsProps/SM_Throne_Interior_Cieling_5.uasset" SILENT=true
+[2019.06.28-18.35.32:384][718]LogSavePackage: Moving 'E:/test/ue4/SummerShorts/Saved/SM_Throne_Interior_Cieling_57F76ECDD42235D56D566968537660FBF.tmp' to 'E:/test/ue4/SummerShorts/Content/SummerShortsProps/SM_Throne_Interior_Cieling_5.uasset'
+[2019.06.28-18.35.32:407][718]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SummerShortsProps/SM_Throne_Exterior_WallTrim_Curved" FILE="E:/test/ue4/SummerShorts/Content/SummerShortsProps/SM_Throne_Exterior_WallTrim_Curved.uasset" SILENT=true
+[2019.06.28-18.35.32:433][718]LogSavePackage: Moving 'E:/test/ue4/SummerShorts/Saved/SM_Throne_Exterior_WallTrim_Curv8582027C4B8A8897FF4C61B6CF8536CC.tmp' to 'E:/test/ue4/SummerShorts/Content/SummerShortsProps/SM_Throne_Exterior_WallTrim_Curved.uasset'
+[2019.06.28-18.35.32:458][718]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SummerShortsProps/SM_Throne_Exterior_WallTrim_02" FILE="E:/test/ue4/SummerShorts/Content/SummerShortsProps/SM_Throne_Exterior_WallTrim_02.uasset" SILENT=true
+[2019.06.28-18.35.32:480][718]LogSavePackage: Moving 'E:/test/ue4/SummerShorts/Saved/SM_Throne_Exterior_WallTrim_02F7AA12DD48F9A36A113CCCA1E955D05A.tmp' to 'E:/test/ue4/SummerShorts/Content/SummerShortsProps/SM_Throne_Exterior_WallTrim_02.uasset'
+[2019.06.28-18.35.32:504][718]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SummerShortsProps/SM_Throne_Exterior_WallTrim_01" FILE="E:/test/ue4/SummerShorts/Content/SummerShortsProps/SM_Throne_Exterior_WallTrim_01.uasset" SILENT=true
+[2019.06.28-18.35.32:525][718]LogSavePackage: Moving 'E:/test/ue4/SummerShorts/Saved/SM_Throne_Exterior_WallTrim_012AD686804FF935D431623C9ABAE0A82D.tmp' to 'E:/test/ue4/SummerShorts/Content/SummerShortsProps/SM_Throne_Exterior_WallTrim_01.uasset'
+[2019.06.28-18.35.32:549][718]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SummerShortsProps/SM_Throne_Exterior_Wall_Window_03" FILE="E:/test/ue4/SummerShorts/Content/SummerShortsProps/SM_Throne_Exterior_Wall_Window_03.uasset" SILENT=true
+[2019.06.28-18.35.32:572][718]LogSavePackage: Moving 'E:/test/ue4/SummerShorts/Saved/SM_Throne_Exterior_Wall_Window_02BC555694B6549EA8477F8A302DA9D81.tmp' to 'E:/test/ue4/SummerShorts/Content/SummerShortsProps/SM_Throne_Exterior_Wall_Window_03.uasset'
+[2019.06.28-18.35.32:595][718]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SummerShortsProps/SM_Throne_Exterior_Wall_Window_02" FILE="E:/test/ue4/SummerShorts/Content/SummerShortsProps/SM_Throne_Exterior_Wall_Window_02.uasset" SILENT=true
+[2019.06.28-18.35.32:624][718]LogSavePackage: Moving 'E:/test/ue4/SummerShorts/Saved/SM_Throne_Exterior_Wall_Window_0E38EDDCE40BC5610306F5183A945F5F0.tmp' to 'E:/test/ue4/SummerShorts/Content/SummerShortsProps/SM_Throne_Exterior_Wall_Window_02.uasset'
+[2019.06.28-18.35.32:672][718]LogSavePackage: Moving 'E:/test/ue4/SummerShorts/Saved/SM_Throne_Exterior_Wall_DoorBlocDD17676441AFA2F2CECCED8A4B58F154.tmp' to 'E:/test/ue4/SummerShorts/Content/SummerShortsProps/SM_Throne_Exterior_Wall_DoorBlocker_01.uasset'
+[2019.06.28-18.35.32:695][718]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SummerShortsProps/SM_Throne_Exterior_Wall_Curved_01" FILE="E:/test/ue4/SummerShorts/Content/SummerShortsProps/SM_Throne_Exterior_Wall_Curved_01.uasset" SILENT=true
+[2019.06.28-18.35.32:713][718]LogSavePackage: Moving 'E:/test/ue4/SummerShorts/Saved/SM_Throne_Exterior_Wall_Curved_0E757685A4372B0E67331C4A298E343BD.tmp' to 'E:/test/ue4/SummerShorts/Content/SummerShortsProps/SM_Throne_Exterior_Wall_Curved_01.uasset'
+[2019.06.28-18.35.32:759][718]LogSavePackage: Moving 'E:/test/ue4/SummerShorts/Saved/SM_Throne_Exterior_Wall_Broken_020BE09104FB9AF235AE4278701566916.tmp' to 'E:/test/ue4/SummerShorts/Content/SummerShortsProps/SM_Throne_Exterior_Wall_Broken_03_LOW.uasset'
+[2019.06.28-18.35.32:782][718]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SummerShortsProps/SM_Throne_Exterior_Wall_Broken_02" FILE="E:/test/ue4/SummerShorts/Content/SummerShortsProps/SM_Throne_Exterior_Wall_Broken_02.uasset" SILENT=true
+[2019.06.28-18.35.32:802][718]LogSavePackage: Moving 'E:/test/ue4/SummerShorts/Saved/SM_Throne_Exterior_Wall_Broken_0F8141B894687849A3589C5B80FFE8389.tmp' to 'E:/test/ue4/SummerShorts/Content/SummerShortsProps/SM_Throne_Exterior_Wall_Broken_02.uasset'
+[2019.06.28-18.35.32:825][718]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SummerShortsProps/SM_Throne_Exterior_Wall_Broken_01" FILE="E:/test/ue4/SummerShorts/Content/SummerShortsProps/SM_Throne_Exterior_Wall_Broken_01.uasset" SILENT=true
+[2019.06.28-18.35.32:844][718]LogSavePackage: Moving 'E:/test/ue4/SummerShorts/Saved/SM_Throne_Exterior_Wall_Broken_05F080D7542F43D83EE41FEAC1B1BF755.tmp' to 'E:/test/ue4/SummerShorts/Content/SummerShortsProps/SM_Throne_Exterior_Wall_Broken_01.uasset'
+[2019.06.28-18.35.32:867][718]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SummerShortsProps/SM_Throne_Exterior_Wall_02" FILE="E:/test/ue4/SummerShorts/Content/SummerShortsProps/SM_Throne_Exterior_Wall_02.uasset" SILENT=true
+[2019.06.28-18.35.32:885][718]LogSavePackage: Moving 'E:/test/ue4/SummerShorts/Saved/SM_Throne_Exterior_Wall_0217D0EF0841AD6EEE64E65389C84E815C.tmp' to 'E:/test/ue4/SummerShorts/Content/SummerShortsProps/SM_Throne_Exterior_Wall_02.uasset'
+[2019.06.28-18.35.32:908][718]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SummerShortsProps/SM_Throne_Exterior_DoorArch" FILE="E:/test/ue4/SummerShorts/Content/SummerShortsProps/SM_Throne_Exterior_DoorArch.uasset" SILENT=true
+[2019.06.28-18.35.32:931][718]LogSavePackage: Moving 'E:/test/ue4/SummerShorts/Saved/SM_Throne_Exterior_DoorArch916C70F34A5E7DCA90CDD6A65C6E826E.tmp' to 'E:/test/ue4/SummerShorts/Content/SummerShortsProps/SM_Throne_Exterior_DoorArch.uasset'
+[2019.06.28-18.35.32:954][718]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SummerShortsProps/SM_Throne_Exterior_CoverBlo" FILE="E:/test/ue4/SummerShorts/Content/SummerShortsProps/SM_Throne_Exterior_CoverBlo.uasset" SILENT=true
+[2019.06.28-18.35.32:977][718]LogSavePackage: Moving 'E:/test/ue4/SummerShorts/Saved/SM_Throne_Exterior_CoverBlo8505C139464C6FA2FE635DB4066D5AD2.tmp' to 'E:/test/ue4/SummerShorts/Content/SummerShortsProps/SM_Throne_Exterior_CoverBlo.uasset'
+[2019.06.28-18.35.33:000][718]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SummerShortsProps/SM_Throne_Exterior_CoverB_3" FILE="E:/test/ue4/SummerShorts/Content/SummerShortsProps/SM_Throne_Exterior_CoverB_3.uasset" SILENT=true
+[2019.06.28-18.35.33:017][718]LogSavePackage: Moving 'E:/test/ue4/SummerShorts/Saved/SM_Throne_Exterior_CoverB_393F5B596481E602A74B9938DEC7ED8F0.tmp' to 'E:/test/ue4/SummerShorts/Content/SummerShortsProps/SM_Throne_Exterior_CoverB_3.uasset'
+[2019.06.28-18.35.33:041][718]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SummerShortsProps/SM_Throne_Exterior_CoverB_2" FILE="E:/test/ue4/SummerShorts/Content/SummerShortsProps/SM_Throne_Exterior_CoverB_2.uasset" SILENT=true
+[2019.06.28-18.35.33:060][718]LogSavePackage: Moving 'E:/test/ue4/SummerShorts/Saved/SM_Throne_Exterior_CoverB_2CA247BA04010E44420F1ADB4313F0763.tmp' to 'E:/test/ue4/SummerShorts/Content/SummerShortsProps/SM_Throne_Exterior_CoverB_2.uasset'
+[2019.06.28-18.35.33:083][718]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SummerShortsProps/SM_Shear_Rock01" FILE="E:/test/ue4/SummerShorts/Content/SummerShortsProps/SM_Shear_Rock01.uasset" SILENT=true
+[2019.06.28-18.35.33:102][718]LogSavePackage: Moving 'E:/test/ue4/SummerShorts/Saved/SM_Shear_Rock01A1AD20494C5C3BE70C80BE80FF8624B4.tmp' to 'E:/test/ue4/SummerShorts/Content/SummerShortsProps/SM_Shear_Rock01.uasset'
+[2019.06.28-18.35.33:126][718]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SummerShortsProps/SM_RockMesa_01" FILE="E:/test/ue4/SummerShorts/Content/SummerShortsProps/SM_RockMesa_01.uasset" SILENT=true
+[2019.06.28-18.35.33:147][718]LogSavePackage: Moving 'E:/test/ue4/SummerShorts/Saved/SM_RockMesa_01B252108B4F23342D0F6DD08633E22F30.tmp' to 'E:/test/ue4/SummerShorts/Content/SummerShortsProps/SM_RockMesa_01.uasset'
+[2019.06.28-18.35.33:170][718]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SummerShortsProps/SM_Bush" FILE="E:/test/ue4/SummerShorts/Content/SummerShortsProps/SM_Bush.uasset" SILENT=true
+[2019.06.28-18.35.33:196][718]LogSavePackage: Moving 'E:/test/ue4/SummerShorts/Saved/SM_Bush6E7CD86C4914DD2A801D3FA5AB952383.tmp' to 'E:/test/ue4/SummerShorts/Content/SummerShortsProps/SM_Bush.uasset'
+[2019.06.28-18.35.33:219][718]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SummerShortsProps/SM_Rock_01" FILE="E:/test/ue4/SummerShorts/Content/SummerShortsProps/SM_Rock_01.uasset" SILENT=true
+[2019.06.28-18.35.33:240][718]LogSavePackage: Moving 'E:/test/ue4/SummerShorts/Saved/SM_Rock_01377070D84433FC4B6C8F0FAF93B544AF.tmp' to 'E:/test/ue4/SummerShorts/Content/SummerShortsProps/SM_Rock_01.uasset'
+[2019.06.28-18.35.33:263][718]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SummerShortsProps/SM_Jagged_Rock03" FILE="E:/test/ue4/SummerShorts/Content/SummerShortsProps/SM_Jagged_Rock03.uasset" SILENT=true
+[2019.06.28-18.35.33:280][718]LogSavePackage: Moving 'E:/test/ue4/SummerShorts/Saved/SM_Jagged_Rock03430F73E045AE5A770497FEA02E13B920.tmp' to 'E:/test/ue4/SummerShorts/Content/SummerShortsProps/SM_Jagged_Rock03.uasset'
+[2019.06.28-18.35.33:303][718]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SummerShortsProps/SM_Jagged_Rock02" FILE="E:/test/ue4/SummerShorts/Content/SummerShortsProps/SM_Jagged_Rock02.uasset" SILENT=true
+[2019.06.28-18.35.33:332][718]LogSavePackage: Moving 'E:/test/ue4/SummerShorts/Saved/SM_Jagged_Rock02B65EF8C84AA0CFDDE7CA598FDC2D98E2.tmp' to 'E:/test/ue4/SummerShorts/Content/SummerShortsProps/SM_Jagged_Rock02.uasset'
+[2019.06.28-18.35.33:357][718]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SummerShortsProps/SM_CliffIce_01" FILE="E:/test/ue4/SummerShorts/Content/SummerShortsProps/SM_CliffIce_01.uasset" SILENT=true
+[2019.06.28-18.35.33:519][718]LogSavePackage: Moving 'E:/test/ue4/SummerShorts/Saved/SM_CliffIce_01F2B21CB846D0455831B016A80CAE2D64.tmp' to 'E:/test/ue4/SummerShorts/Content/SummerShortsProps/SM_CliffIce_01.uasset'
+[2019.06.28-18.35.33:542][718]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SummerShortsProps/SM_Wall_BrokenPiece_03_HQ" FILE="E:/test/ue4/SummerShorts/Content/SummerShortsProps/SM_Wall_BrokenPiece_03_HQ.uasset" SILENT=true
+[2019.06.28-18.35.33:562][718]LogSavePackage: Moving 'E:/test/ue4/SummerShorts/Saved/SM_Wall_BrokenPiece_03_HQ119F8BDD40A308633671A18278049049.tmp' to 'E:/test/ue4/SummerShorts/Content/SummerShortsProps/SM_Wall_BrokenPiece_03_HQ.uasset'
+[2019.06.28-18.35.33:585][718]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SummerShortsProps/SM_Rock" FILE="E:/test/ue4/SummerShorts/Content/SummerShortsProps/SM_Rock.uasset" SILENT=true
+[2019.06.28-18.35.33:605][718]LogSavePackage: Moving 'E:/test/ue4/SummerShorts/Saved/SM_Rock56F71D684AE7DA5A0353E586F0D6784D.tmp' to 'E:/test/ue4/SummerShorts/Content/SummerShortsProps/SM_Rock.uasset'
+[2019.06.28-18.35.46:761][ 17]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/SummerShorts_BuiltData" FILE="E:/test/ue4/SummerShorts/Content/StarterContent/SummerShorts_BuiltData.uasset" SILENT=true
+[2019.06.28-18.35.46:891][ 17]LogSavePackage: Moving 'E:/test/ue4/SummerShorts/Saved/SummerShorts_BuiltData29458295493340D79D8E908403F1CD7B.tmp' to 'E:/test/ue4/SummerShorts/Content/StarterContent/SummerShorts_BuiltData.uasset'
+[2019.06.28-18.35.47:021][ 17]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/SummerShorts" FILE="E:/test/ue4/SummerShorts/Content/StarterContent/SummerShorts.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.06.28-18.35.49:154][ 17]LogSlate: Window 'Message' being destroyed
+[2019.06.28-18.35.49:170][ 17]EditorErrors: New page: Save Output
+[2019.06.28-18.35.49:170][ 17]EditorErrors: Warning: Can't save E:/test/ue4/SummerShorts/Content/StarterContent/SummerShorts.umap: Graph is linked to external private object Unknown
+[2019.06.28-18.35.49:183][ 17]LogFileHelpers: Saving map 'SummerShorts' took 2.287
+[2019.06.28-18.35.55:525][ 17]LogSlate: Window 'Message' being destroyed
+[2019.06.28-18.35.57:297][ 17]LogSlate: Window 'Packages Failed To Save' being destroyed
+[2019.06.28-18.36.00:186][317]LogSlate: Window 'Message Log' being destroyed
+[2019.06.28-18.36.00:189][317]LogSlate: Window 'Message Log' being destroyed
+[2019.06.28-18.36.04:706][857]LogAssetEditorManager: Opening Asset editor for World /Game/StarterContent/SummerShorts.SummerShorts
+[2019.06.28-18.36.06:755][857]LogSlate: Window 'Save Content' being destroyed
+[2019.06.28-18.36.06:760][857]Cmd: MAP LOAD FILE="E:/test/ue4/SummerShorts/Content/StarterContent/SummerShorts.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.06.28-18.36.06:762][857]LightingResults: New page: Lighting Build
+[2019.06.28-18.36.06:762][857]LoadErrors: New page: Loading map: SummerShorts.umap
+[2019.06.28-18.36.06:767][857]MapCheck: New page: Map Check
+[2019.06.28-18.36.06:767][857]LightingResults: New page: Lighting Build
+[2019.06.28-18.36.06:797][857]LogLinker: Warning: Can't find file '/Game/StarterContent/SummerShorts'
+[2019.06.28-18.36.08:228][857]LogSlate: Window 'Message' being destroyed
+[2019.06.28-18.36.08:232][857]LightingResults: New page: Lighting Build
+[2019.06.28-18.36.08:233][857]LogAIModule: Creating AISystem for world Untitled
+[2019.06.28-18.36.08:259][857]LoadErrors: New page: New Map
